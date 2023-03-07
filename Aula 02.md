@@ -67,7 +67,7 @@
 
 <ul><li>シ</li><li>ス</li><li>こ</li></ul>
 
-|  | furigana | romanji | tradução |
+|  | furigana | tradução |
 |:---:|:---:|:---:|
 | 子供 | **こ**ども | criança |
 | 女の子 | おんなの**こ** | menina |
