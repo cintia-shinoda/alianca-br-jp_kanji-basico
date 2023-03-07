@@ -15,7 +15,7 @@
 <br>
 
 
-##　金
+## 金
 
 <ul><li>ouro</li><li>dinheiro</li></ul>
 
@@ -47,7 +47,7 @@
 <br>
 
 
-##　人
+## 人
 - pessoa
 
 <ul><li>ジン</li><li>ニン</li><li>ひと</li></ul>
