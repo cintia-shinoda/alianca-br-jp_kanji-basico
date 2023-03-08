@@ -8,8 +8,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 水田 | すいでん |  |
-| 油田 | ゆでん |  |
+| 水田 | すいでん | arrozal/terrenos alagados |
+| 油田 | ゆでん | campo de petróleo |
 | 山田さん / 田中さん | やまださん / たなかさん | Yamada-san / Tanaka-san |
 | 秋田県 | あきたけん | Akita-ken |
 
@@ -39,9 +39,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 川 | かわ |  |
-| アマゾン川 | アマゾンかわ |  |
-| 川村さん | かわむらさん |  |
+| 川 | かわ | rio |
+| アマゾン川 | アマゾンかわ | rio Amazonas |
+| 川村さん | かわむらさん | Kawamura-san |
 |  |  |  |
 
 <br>
@@ -54,11 +54,11 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 口 | くち |  |
-| 人口 | じんこう |  |
-| 出口 | でぐち |  |
-| 入口 | いりぐち |  |
-| 山口県 | やまぐちけん |  |
+| 口 | くち | boca |
+| 人口 | じんこう | população |
+| 出口 | でぐち | saída |
+| 入口 | いりぐち | entrada |
+| 山口県 | やまぐちけん | província de Yamaguchi |
 
 <br>
 
