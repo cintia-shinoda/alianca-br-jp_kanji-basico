@@ -70,7 +70,7 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 車 | くるま | carro |
+| 車 | くるま | carro, roda |
 | 電車 | でんしゃ | trem |
 | 自動車 | じどうしゃ | automóvel |
 | 自転車 | じてんしゃ | bicicleta |
@@ -86,6 +86,6 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 門 | もん | portão |
-| 校門 | こうもん |  |
+| 校門 | こうもん | portão da escola |
 | 入門 | にゅうもん | introdução |
 | 門松 | かどまつ | decoração de Ano Novo |
