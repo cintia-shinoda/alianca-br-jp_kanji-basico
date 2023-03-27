@@ -40,10 +40,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  | ponta |
-|  |  | professor |
-|  |  | dia no passado |
-|  |  | mês passado |
+| 先 | さき | ponta |
+| 先生 | せんせい | professor |
+| 先日 | せんじつ | dia no passado |
+| 先月 | せんげつ | mês passado |
 
 <br>
 
@@ -55,8 +55,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  | eu |
-|  |  | particular |
+| 私 | わたくし・わたし | eu |
+| 私立大学 | しりつだいがく | particular |
 <br>
 
 
