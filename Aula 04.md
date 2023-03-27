@@ -23,12 +23,12 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  | chope |
-|  |  | viver |
-|  |  | estudante |
-|  |  | aniversário |
-|  |  | crescer dente/barba |
-|  |  | nascer |
+| 生ビール | なまビール | chope |
+| 生きる | いきる | viver |
+| 学生 | がくせい | estudante |
+| 誕生日 | たんじょうび | aniversário |
+| 生える | はえる | crescer dente/barba |
+| 生まれる | うまれる | nascer |
 
 <br>
 
