@@ -1,7 +1,7 @@
 # Aula 10
 
 ## 林
-<ul><li></li><li></li></ul>
+- bosque
 
 <ul><li></li><li></li></ul>
 
@@ -12,7 +12,7 @@
 
 
 ## 森
-<ul><li></li><li></li></ul>
+- floresta
 
 <ul><li></li><li></li></ul>
 
@@ -23,7 +23,7 @@
 
 
 ## 間
-<ul><li></li><li></li></ul>
+<ul><li>espaço entre dois pontos</li><li>intervalo de tempo</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -34,7 +34,7 @@
 
 
 ## 畑
-<ul><li></li><li></li></ul>
+- terra cultivada
 
 <ul><li></li><li></li></ul>
 
@@ -45,7 +45,7 @@
 
 
 ## 石
-<ul><li></li><li></li></ul>
+- pedra
 
 <ul><li></li><li></li></ul>
 
@@ -56,7 +56,7 @@
 
 
 ## 岩
-<ul><li></li><li></li></ul>
+- rocha
 
 <ul><li></li><li></li></ul>
 
