@@ -4,14 +4,14 @@
 ## 文
 <ul><li>texto</li><li>sentença</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>ブン</li><li>モン</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 文 | ぶん |  |
-| 文章 | ぶんしょう |  |
+| 文 | ぶん | sentença/frase |
+| 文章 | ぶんしょう | texto |
 | 文学 | ぶんがく | literatura |
-| 天文学 | てんもんがく |  |
+| 天文学 | てんもんがく | Astronomia |
 | 文化 | ぶんか | cultura |
 
 
@@ -22,6 +22,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
+| 字 | じ |  |
+| 大文字 | おおもじ |  |
+| 数字 | すうじ |  |
+| 漢字 | かんじ |  |
 
 
 ## 物
