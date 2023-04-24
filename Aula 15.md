@@ -14,6 +14,8 @@
 | 天文学 | てんもんがく | Astronomia |
 | 文化 | ぶんか | cultura |
 
+<br>
+
 
 ## 字
 - caractere, letra
@@ -22,10 +24,13 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 字 | じ |  |
-| 大文字 | おおもじ |  |
-| 数字 | すうじ |  |
-| 漢字 | かんじ |  |
+| 字 | じ | caractere, letra |
+| 大文字 | おおもじ | letra maiúscula |
+| 小文字 | こもじ | letra minúscula |
+| 数字 | すうじ | número |
+| 漢字 | かんじ | kanji |
+
+<br>
 
 
 ## 物
@@ -35,6 +40,13 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
+| 見物 | けんぶつ |  |
+| 生物学 | せいぶつがく | Biologia |
+| 荷物 | にもつ | bagagem |
+| 物 | もの | coisa |
+| 買い物 | かいもの | compra |
+
+<br>
 
 
 ## 牛
@@ -44,3 +56,7 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
