@@ -4,7 +4,7 @@
 ## 馬
 - cavalo
 
-<ul><li>ブン</li><li>モン</li></ul>
+<ul><li></li><li></li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -16,13 +16,13 @@
 
 
 ## 鳥
+- pássaro
 
-
-<ul><li>ブン</li><li>モン</li></ul>
+<ul><li></li><li></li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 小鳥 | ことり |  |
+| 小鳥 | ことり | passarinho |
 | 焼き鳥 | やきとり |  |
 | 白鳥 | はくちょう |  |
 
@@ -30,14 +30,14 @@
 
 
 ## 魚
+- peixe
 
-
-<ul><li>ブン</li><li>モン</li></ul>
+<ul><li></li><li></li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 金魚 | きんぎょ |  |
-| 魚 | さかな |  |
+| 魚 | さかな | peixe |
 | 魚屋 | さかなや |  |
 | 焼き魚 | やきざかな |  |
 | 魚市場 | うおいちば |  |
@@ -46,9 +46,9 @@
 
 
 ## 高
-<ul><li>/li><li></li></ul>
+<ul><li>alto</li><li>caro</li></ul>
 
-<ul><li>ブン</li><li>モン</li></ul>
+<ul><li></li><li></li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -60,9 +60,9 @@
 
 
 ## 安
-<ul><li>/li><li></li></ul>
+<ul><li>barato</li><li></li></ul>
 
-<ul><li>ブン</li><li>モン</li></ul>
+<ul><li></li><li></li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
