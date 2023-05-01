@@ -12,11 +12,42 @@
 | **日** | **ひ** | dia, Sol |
 | **日**の出 | **ひ**ので | nascer do sol |
 | **日**本 | **に**ほん | Japão |
-| 2日 / 二日 | ふつ**か** | 2o. dia do mês |
-| **日**曜**日** | **にち**よう**び** | domingo |
 | 毎日 | まい**にち** | todo dia |
 | 今**日** | きょう | hoje |
 | 休**日** | きゅう**じつ** | feriado |
+| **日**曜**日** | **にち**よう**び** | domingo |
+
+<br>
+
+#### Dias do mês
+
+|  | furigana | tradução |
+|:---:|:---:|:---:|
+| １日 / 一日 |  |  |
+| ２日 / 二日 | ふつ**か** | 2o. dia do mês |
+| ３日 / 三日|  |  |
+| ４日 / 四日 |  |  |
+| ５日 / 五日 |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+<br>
+
+
+#### Dias da semana
+
+|  | furigana | tradução |
+|:---:|:---:|:---:|
+| **日**曜**日** | **にち**よう**び** | domingo |
+| 月曜日 | げつようび | segunda-feira |
+| 火曜日 | かようび | terça-feira |
+| 水曜日 | すいようび | quarta-feira |
+| 木曜日 | もくようび | quinta-feira |
+| 金曜日 | きんようび | sexta-feira |
+| 土曜日 | どようび | sábado |
 
 <br>
 
@@ -33,7 +64,23 @@
 | 今月 | こん**げつ** | este mês |
 | 毎月 | まい**つき** / まい**げつ** | todo mês |
 | １か月 | いっか**げつ** | por mês / um mês |
+
+
+### Meses
+|  | furigana | tradução |
+|:---:|:---:|:---:|
 | 1月 / 一月 | いち**がつ** | Janeiro |
+|  |  | Fevereiro |
+|  |  | Março |
+|  |  | Abril |
+|  |  | Maio |
+|  |  | Junho |
+|  |  | Julho |
+|  |  | Agosto |
+|  |  | Setembro |
+|  |  | Outubro |
+|  |  | Novembro |
+|  |  | Dezembro |
 
 <br>
 
