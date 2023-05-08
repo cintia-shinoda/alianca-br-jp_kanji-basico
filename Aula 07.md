@@ -57,9 +57,9 @@
 |:---:|:---:|:---:|
 | 大きい | おおきい | grande |
 | 大学 | だいがく | universidade |
-| 大会 | たいかい |  |
-| 大切 | たいせつ |  |
-| 大人 | おとな |  |
+| 大会 | たいかい | competição, torneio |
+| 大切 | たいせつ | importante |
+| 大人 | おとな | adulto |
 
 <br>
 
@@ -72,7 +72,7 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 小さい | ちいさい | pequeno |
-| 小学生 | しょうがくせい |  |
+| 小学生 | しょうがくせい | estudante do fundamental 1 |
 | 小人 | しょうにん |  |
 | 小人 | こども | criança |
 | 小川さん | おがわさん | Ogawa-san |

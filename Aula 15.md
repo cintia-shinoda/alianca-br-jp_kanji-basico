@@ -40,7 +40,7 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 見物 | けんぶつ |  |
+| 見物 | けんぶつ | passeio turístico |
 | 生物学 | せいぶつがく | Biologia |
 | 荷物 | にもつ | bagagem |
 | 物 | もの | coisa |

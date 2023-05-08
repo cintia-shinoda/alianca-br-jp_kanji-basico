@@ -26,8 +26,11 @@
 | 山 | やま | montanha |
 | 火山 | かざん | vulcão |
 | 富士山 | ふじさん | Monte Fuji |
+| 山梨県 | やまなしけん |  |
+| 富山県 | とやまけん |  |
+| 岡山県 | おかやまけん |  |
+| 和歌山県 | わかやまけん |  |
 | 山村さん / 山下さん | やまむらさん / やましたさん | Yamamura-san / Yamashita-san |
-|  |  |  |
 
 <br>
 
@@ -42,7 +45,9 @@
 | 川 | かわ | rio |
 | アマゾン川 | アマゾンかわ | rio Amazonas |
 | 川村さん | かわむらさん | Kawamura-san |
-|  |  |  |
+| 石川県 | いしかわけん |  |
+| 香川県 | かがわけん |  |
+| 神奈川県 | かながわけん |  |
 
 <br>
 
@@ -71,7 +76,7 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 車 | くるま | carro, roda |
-| 電車 | でんしゃ | trem |
+| 電車 | でんしゃ | trem　elétrico |
 | 自動車 | じどうしゃ | automóvel |
 | 自転車 | じてんしゃ | bicicleta |
 
@@ -88,4 +93,4 @@
 | 門 | もん | portão |
 | 校門 | こうもん | portão da escola |
 | 入門 | にゅうもん | introdução |
-| 門松 | かどまつ | decoração de Ano Novo |
+| 門松 | かどまつ | decoração de Ano Novo　🎍 |

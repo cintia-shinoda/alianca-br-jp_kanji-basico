@@ -8,8 +8,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 学生 | がくせい | estudante |
-| 学校 | がっこう | escola |
+| 学生 | がくせい | estudante　👩‍🎓 |
+| 学校 | がっこう | escola 🏫|
 | 大学 | だいがく | universidade / faculdade |
 | 入学 | にゅうがく | ingresso na escola |
 
@@ -19,14 +19,14 @@
 ## 生
 <ul><li>vida</li><li>nascer</li><li>viver</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>なま</li><li>いきる</li><li>セイ</li><li>ジョウ</li><li>は</li><li>う</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 生ビール | なまビール | chope |
+| 生ビール | なまビール | chope 🍺|
 | 生きる | いきる | viver |
-| 学生 | がくせい | estudante |
-| 誕生日 | たんじょうび | aniversário |
+| 学生 | がくせい | estudante　|
+| 誕生日 | たんじょうび | aniversário 🎁🎂|
 | 生える | はえる | crescer dente/barba |
 | 生まれる | うまれる | nascer |
 
@@ -36,12 +36,12 @@
 ## 先
 <ul><li>antes</li><li>adiante</li><li>extremidade</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>セン</li><li>さき</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 先 | さき | ponta |
-| 先生 | せんせい | professor |
+| 先生 | せんせい | professor 👩‍🏫|
 | 先日 | せんじつ | dia no passado |
 | 先月 | せんげつ | mês passado |
 
@@ -51,7 +51,7 @@
 ## 私
 <ul><li>eu</li><li>privado</li></ul>
 
-<ul><li></li><li></li><li></li></ul>
+<ul><li>わたし</li><li>わたくし</li><li>し</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -69,8 +69,8 @@
 |:---:|:---:|:---:|
 | 一つ (1つ) | ひとつ | 1 objeto |
 | 一月 (1月) | いちがつ | Janeiro |
-| 一日 (１日) | ついたち |  |
-| 一日 (１日) | いちにち |  |
+| 一日 (１日) | ついたち | 1o. dia do mês |
+| 一日 (１日) | いちにち | um dia |
 | 一人 (1人) | ひとり | sozinho/a / 1 pessoa |
 | 一本 (１本) | いっぽん | 1 objeto longo |
 

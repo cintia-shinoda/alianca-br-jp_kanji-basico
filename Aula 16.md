@@ -68,5 +68,5 @@
 |:---:|:---:|:---:|
 | 安い | やすい | barato |
 | 安全 | あんぜん | seguro |
-| 安心 | あんしん |  |
-| 不安 | ふあん |  |
+| 安心 | あんしん | tranquilidade |
+| 不安 | ふあん | apreensão/intranquilo |
