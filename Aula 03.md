@@ -8,10 +8,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 水田 | すいでん | arrozal/terrenos alagados |
-| 油田 | ゆでん | campo de petróleo |
-| 山田さん / 田中さん | やまださん / たなかさん | Yamada-san / Tanaka-san |
-| 秋田県 | あきたけん | Akita-ken |
+| 水**田** | すい**でん** | arrozal/terrenos alagados |
+| 油**田** | ゆ**でん** | campo de petróleo |
+| 山**田**さん / **田**中さん | やま**だ**さん / **た**なかさん | Yamada-san / Tanaka-san |
+| 秋**田**県 | あき**た**けん | Akita-ken |
 
 <br>
 
@@ -24,13 +24,13 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 山 | やま | montanha |
-| 火山 | かざん | vulcão |
-| 富士山 | ふじさん | Monte Fuji |
+| 火**山** | か**ざん** | vulcão |
+| 富士**山** | ふじ**さん** | Monte Fuji |
 | 山梨県 | やまなしけん |  |
 | 富山県 | とやまけん |  |
 | 岡山県 | おかやまけん |  |
 | 和歌山県 | わかやまけん |  |
-| 山村さん / 山下さん | やまむらさん / やましたさん | Yamamura-san / Yamashita-san |
+| **山**村さん / **山**下さん | **やま**むらさん / **やま**したさん | Yamamura-san / Yamashita-san |
 
 <br>
 
@@ -43,11 +43,11 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 川 | かわ | rio |
-| アマゾン川 | アマゾンかわ | rio Amazonas |
-| 川村さん | かわむらさん | Kawamura-san |
-| 石川県 | いしかわけん |  |
-| 香川県 | かがわけん |  |
-| 神奈川県 | かながわけん |  |
+| アマゾン**川** | アマゾン**かわ** | rio Amazonas |
+| **川**村さん | **かわ**むらさん | Kawamura-san |
+| 石**川**県 | いしかわけん |  |
+| 香**川**県 | か**がわ**けん |  |
+| 神奈**川**県 | かな**がわ**けん |  |
 
 <br>
 
@@ -60,10 +60,10 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 口 | くち | boca |
-| 人口 | じんこう | população |
-| 出口 | でぐち | saída |
-| 入口 | いりぐち | entrada |
-| 山口県 | やまぐちけん | província de Yamaguchi |
+| 人**口** | じん**こう** | população |
+| 出**口** | で**ぐち** | saída |
+| 入**口** | いり**ぐち** | entrada |
+| 山**口**県 | やま**ぐち**けん | província de Yamaguchi |
 
 <br>
 
@@ -76,9 +76,9 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 車 | くるま | carro, roda |
-| 電車 | でんしゃ | trem　elétrico |
-| 自動車 | じどうしゃ | automóvel |
-| 自転車 | じてんしゃ | bicicleta |
+| 電**車** | でん**しゃ** | trem　elétrico |
+| 自動**車** | じどう**しゃ** | automóvel |
+| 自転**車** | じてん**しゃ** | bicicleta |
 
 <br>
 
@@ -91,6 +91,6 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 門 | もん | portão |
-| 校門 | こうもん | portão da escola |
-| 入門 | にゅうもん | introdução |
-| 門松 | かどまつ | decoração de Ano Novo　🎍 |
+| 校**門** | こう**もん** | portão da escola |
+| 入**門** | にゅう**もん** | introdução |
+| 門松 |**かど**まつ | decoração de Ano Novo　🎍 |
