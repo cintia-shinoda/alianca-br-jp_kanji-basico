@@ -37,7 +37,7 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 多い | おおい |  |
+| 多い | おおい | muito |
 | 多数 | たすう |  |
 
 
@@ -48,8 +48,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 少ない | すくない |  |
-|少し | すこし |  |
+| 少ない | すくない | pouco |
+|少し | すこし | um pouco |
 | 少年 | しょうねん |  |
 | 多少 | たしょう |  |
 
@@ -63,7 +63,11 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
+| 長い | ながい | longo |
+| 長男 | ちょうなん | filho mais velho |
+|  |  | filha mais velha |      
+| 社長 | しゃちょう | presidente da empresa |
+| 長野県 | ながのけん | Nagano-ken |
 
 
 ## 短
