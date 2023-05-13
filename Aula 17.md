@@ -77,7 +77,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
+| 短い | みじかい | curto |
+| 短パン | たんぱん | bermuda |
+| 短気 | たんき | "pavio curto" |
+| 短大 | たんだい | faculdade de curta duração |
 
 
 ## 低
