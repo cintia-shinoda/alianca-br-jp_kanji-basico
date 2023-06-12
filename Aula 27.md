@@ -8,10 +8,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 会う | あう | encontrar-se |
+| 会社 | かいしゃ | empresa |
+| 会長 | かいちょう | presidente de associação |
+| 会話 | かいわ | conversação |
 
 <br>
 
