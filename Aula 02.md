@@ -8,9 +8,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 木 | **き** | árvore |
-| 木曜日 | **もく**ようび | quinta-feira |
-| 木村さん / 木下っさん | **き**むらさん / **き**のしたさん | Kimura-san / Kinoshita-san |
+| **木** | **き** | árvore |
+| **木**曜日 | **もく**ようび | quinta-feira |
+| **木**村さん / **木**下っさん | **き**むらさん / **き**のしたさん | Kimura-san / Kinoshita-san |
 
 <br>
 
@@ -23,11 +23,11 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| お金 | お**かね** | dinheiro |
-| 金 | **きん** | ouro |
-| 現金 | げん**きん** | dinheiro em espécie |
-| 金曜日 | **きん**ようび | sexta-feira |
-| 金田さん | **かね**ださん | Kaneda-san |
+| お**金** | お**かね** | dinheiro |
+| **金** | **きん** | ouro |
+| 現**金** | げん**きん** | dinheiro em espécie |
+| **金**曜日 | **きん**ようび | sexta-feira |
+| **金**田さん | **かね**ださん | Kaneda-san |
 
 <br>
 
@@ -39,10 +39,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 土 | **つち** | terra, solo |
-| 土地 | **と**ち | terreno |
-| 土曜日 | **ど**ようび | sábado |
-| 土木工学 | **ど**ぼくこうがく | Engenharia Civil |
+| **土** | **つち** | terra, solo |
+| **土**地 | **と**ち | terreno |
+| **土**曜日 | **ど**ようび | sábado |
+| **土**木工学 | **ど**ぼくこうがく | Engenharia Civil |
 
 <br>
 
@@ -55,7 +55,7 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 人 | **ひと** | pessoa |
-| ブラジル人 | ブラジル**じん** | brasileiro |
+| ブラジル**人** | ブラジル**じん** | brasileiro |
 | 人間 | **にん**げん | humano |
 | 人生 | **じん**せい | vida |
 
@@ -69,10 +69,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 子供 | **こ**ども | criança |
-| 女の子 | おんなの**こ** | menina |
-| 男子 | だん**し** | menino |
-| 様子 | よう**す** | aparência |
+| **子**供 | **こ**ども | criança |
+| 女の**子** | おんなの**こ** | menina |
+| 男**子** | だん**し** | menino |
+| 様**子** | よう**す** | aparência |
 
 <br>
 
@@ -84,10 +84,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 女 | **おんな** | mulher |
-| 女子 | **じょ**し | menina |
-| 彼女 | かの**じょ** | ela |
-| 女性 | **じょ**せい | mulher, feminino |
+| **女** | **おんな** | mulher |
+| **女**子 | **じょ**し | menina |
+| 彼**女** | かの**じょ** | ela |
+| **女**性 | **じょ**せい | mulher, feminino |
 
 <br>
 
@@ -99,5 +99,5 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 曜日 | **よう**び | dia da semana |
-| 何曜日 | なん**よう**び | qual dia da semana? |
+| **曜**日 | **よう**び | dia da semana |
+| 何**曜**日 | なん**よう**び | qual dia da semana? |
