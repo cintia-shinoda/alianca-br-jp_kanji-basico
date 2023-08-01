@@ -4,7 +4,7 @@
 ## ```会```
 <ul><li>encontrar-se com</li><li>associação</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>カイ</li><li>あ・う</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -19,7 +19,7 @@
 ## ```今```
 <ul><li>agora, este momento</li><li>este(a)</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>キン</li><li>コン</li><li>いま</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -36,15 +36,15 @@
 ## ```家```
 <ul><li>casa</li><li>família</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>カ</li><li>ケ</li><li>や</li><li>いえ</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 家 | いえ |  |
+| 家族 | かぞく |  |
+| 作家 | さっか |  |
+| 大家 | おおや |  |
+| sobrenome + 家 | け |  |
 
 <br>
 
@@ -52,11 +52,13 @@
 ## ```室```
 - cômodo, aposento
 
-<ul><li></li><li></li></ul>
+<ul><li>シツ</li><li>むろ</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
+| 教室 | きょうしつ |  |
+| 寝室 | しんしつ |  |
+| 温室 | おんしつ |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -67,11 +69,11 @@
 ## ```客``
 <ul><li>visitante</li><li>cliente</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>キャク</li><li>カク</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 客 | きゃく |  |
+| 客間 | きゃくま |  |
+| 乗客 | じょうきゃく |  |
+| 旅客機 | りょかくき |  |
