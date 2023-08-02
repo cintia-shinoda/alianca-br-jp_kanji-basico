@@ -1,7 +1,7 @@
 # Aliança Cultural Brasil-Japão - Kanji Básico
 
 
-## Kanji 1
+## ```Kanji 1```
 
 |  | # | Data | Kanjis |  |
 |:---:|:---:|:---:|:---:|:---:|
@@ -46,7 +46,7 @@
 
 
 
-## Kanji 2
+## ```Kanji 2```
 
 |  | # | Data | Kanjis |  |
 |:---:|:---:|:---:|:---:|:---:|
