@@ -1,7 +1,13 @@
 # Aliança Cultural Brasil-Japão - Kanji Básico
 
+### ```Flashcards```
+[Kanji 1](https://quizlet.com/br/792091545/kanji-1-flash-cards/?funnelUUID=b95de232-26d0-418a-b5a2-598bb6b57d9b)
+[Kanji 2](https://quizlet.com/br/817726587/kanji-2-flash-cards/?funnelUUID=2679492b-a70b-4d47-9557-e56ef00b7ef8)
+<br>
 
-## ```Kanji 1```
+### ```Cronograma e Listas de Kanjis```
+
+#### ```Kanji 1```
 
 |  | # | Data | Kanjis |  |
 |:---:|:---:|:---:|:---:|:---:|
@@ -46,14 +52,14 @@
 
 
 
-## ```Kanji 2```
+#### ```Kanji 2```
 
 |  | # | Data | Kanjis |  |
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 07/08/2023 | Revisão |  |
 | &check; | 02 | 09/08/2023 | Revisão |  |
 | &check; | 03 | 14/08/2023 | 道・近・遠・速・遅・青・ | 6 |
-|  | 04 | 16/08/2023 |  |  |
+| &check; | 04 | 16/08/2023 | 晴・静・寺・持・荷・歌 | 6 |
 |  | 05 | 21/08/2023 |  |  |
 |  | 06 | 23/08/2023 |  |  |
 |  | 07 | 28/08/2023 |  |  |
@@ -84,4 +90,4 @@
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **6 / 142** |
+| **$\sum$** |  |  |  | **12 / 142** |
