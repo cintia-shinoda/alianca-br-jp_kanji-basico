@@ -8,9 +8,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 晴れ | はれ |  |
-| 晴れる | はれる |  |
-| 晴天 | せいてん |  |
+| 晴れ | はれ | tempo bom |
+| 晴れる | はれる | clarear, fazer tempo bom |
+| 晴天 | せいてん | ceú limpo |
 
 <br>
 
@@ -22,9 +22,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 静かな | しずかな |  |
-| 安静 | あんせい |  |
-| 静まる | しず・まる |  |
+| 静かな | しずかな | silencioso, tranquilo |
+| 安静 | あんせい | descanso, repouso |
+| 静まる | しず・まる | tranquilizar-se |
 
 <br>
 
@@ -36,9 +36,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 寺 | てら |  |
-| 寺院 | じいん |  |
-| 寺社 | じしゃ |  |
+| 寺 | てら | templo budista |
+| 寺院 | じいん | templo |
+| 寺社 | じしゃ | santuário xintoísta |
 
 <br>
 
@@ -50,11 +50,11 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 持つ | もつ |  |
-| 持ち帰る | もちかえる |  |
-| 気持ち | きもち |  |
-| 支持 | しじ |  |
-| 維持 | いじ |  |
+| 持つ | もつ | segurar, portar, possuir |
+| 持ち帰る | もちかえる | levar para casa |
+| 気持ち | きもち | sentimento, sensação |
+| 支持 | しじ | apoio, suporte |
+| 維持 | いじ | manutenção |
 
 <br>
 
@@ -66,11 +66,11 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 荷物 | にもつ |  |
-| 手荷物 | てにもつ |  |
-| 荷造り | にづくり |  |
-| 出荷 | しゅっか |  |
-| 入荷 | にゅうか |  |
+| 荷物 | にもつ | bagagem |
+| 手荷物 | てにもつ | bagagem de mão |
+| 荷造り | にづくり | preparar bagagem |
+| 出荷 | しゅっか | expedição de carga |
+| 入荷 | にゅうか | recebimento de carga |
 
 <br>
 
@@ -78,11 +78,11 @@
 ## 歌
 <ul><li>canção</li><li>cantar</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>カ</li><li>うた</li><li>うた・う</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 歌 | うた |  |
-| 歌う | うたう |  |
-| 歌手 | かしゅ |  |
-| 国歌 | こっか |  |
+| 歌 | うた | canção |
+| 歌う | うたう | cantar |
+| 歌手 | かしゅ | cantor |
+| 国歌 | こっか | hino nacional |
