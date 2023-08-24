@@ -7,10 +7,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 母 | はは |  |
+| 母 | はは | mãe (da pessoa que fala) |
 | 母親 | ははおや |  |
 | 父母 | ふぼ |  |
-| お母さん | おかあさん |  |
+| お母さん | おかあさん | mãe (de outra pessoa) |
 
 
 ## 父
@@ -20,9 +20,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 父 | ちち |  |
+| 父 | ちち | pai (da pessoa que fala) |
 | 父親 | ちちおや |  |
-| お父さん | おとうさん |  |
+| お父さん | おとうさん | pai (de outra pessoa) |
 
 
 ## 兄
@@ -32,8 +32,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 兄 | あに |  |
-| お兄さん | おにいさん |  |
+| 兄 | あに | irmão mais velho (da pessoa que fala) |
+| お兄さん | おにいさん | irmão mais velho (de outra pessoa) |
 | 父兄 | ふけい |  |
 
 
@@ -44,9 +44,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 弟 | おとうと |  |
-| 兄弟 | きょうだい |  |
-| 弟子 | でし |  |
+| 弟 | おとうと | irmão mais novo |
+| 兄弟 | きょうだい | irmãos |
+| 弟子 | でし | discípulo |
 
 
 ## 姉
@@ -56,8 +56,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 姉 | あね |  |
-| お姉さん | おねえさん |  |
+| 姉 | あね | irmão mais velha (da pessoa que fala) |
+| お姉さん | おねえさん | irmã mais velha (de outra pessoa) |
 
 
 ## 妹
@@ -67,5 +67,5 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 妹 | いもうと |  |
-| 姉妹 | しまい |  |
+| 妹 | いもうと | irmã mais nova |
+| 姉妹 | しまい | irmãs |
