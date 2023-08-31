@@ -8,7 +8,7 @@
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 | 母 | はは | mãe (da pessoa que fala) |
-| 母親 | ははおや |  |
+| 母親 | ははおや | mãe |
 | 父母 | ふぼ |  |
 | お母さん | おかあさん | mãe (de outra pessoa) |
 
