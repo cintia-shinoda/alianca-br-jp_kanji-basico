@@ -1,7 +1,7 @@
 #### Aula 08 - 30/08/2023
 
 
-## 元
+# 元
 <ul><li>origem, início</li><li>estado ou condição original</li></ul>
 
 <ul><li></li><li></li><li></li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 気
+# 気
 <ul><li>gás, vapor</li><li>atmosfera</li><li>estado de espírito</li><li>energia vital</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -33,7 +33,7 @@
 <br>
 
 
-## 親
+# 親
 <ul><li>pais</li><li>parentes</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
@@ -48,7 +48,7 @@
 <br>
 
 
-## 切
+# 切
 - cortar
 
 <ul><li></li><li></li><li></li><li></li></ul>
@@ -63,7 +63,7 @@
 <br>
 
 
-## 便
+# 便
 <ul><li>conveniência</li><li>notícias</li><li>correspondência</li><li>serviço de transporte</li><li>excremento</li></ul>
 
 <ul><li></li><li></li><li></li></ul>
@@ -79,7 +79,7 @@
 <br>
 
 
-## 利
+# 利
 - vantagem, lucro
 
 <ul><li></li><li></li></ul>
@@ -95,7 +95,7 @@
 <br>
 
 
-## 若
+# 若
 <ul><li>jovem</li><li>ou então</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -109,7 +109,7 @@
 <br>
 
 
-## 忙
+# 忙
 - ocupado, atarefado
 
 <ul><li></li><li></li></ul>

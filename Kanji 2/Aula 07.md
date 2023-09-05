@@ -1,7 +1,7 @@
 #### Aula 07 - 28/08/2023
 
 
-## 不
+# 不
 - prefixo de negação
 
 <ul><li></li><li></li></ul>
@@ -14,8 +14,10 @@
 |  |  |  |
 |  |  |  |
 
+<br>
 
-## 早
+
+# 早
 <ul><li>cedo</li><li>sem demora, imediatamente</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
@@ -27,8 +29,10 @@
 |  |  |  |
 |  |  |  |
 
+<br>
 
-## 有
+
+# 有
 <ul><li>existir, estar presente</li><li>possuir, ter</li></ul>
 
 <ul><li></li><li></li><li></li></ul>
@@ -39,8 +43,10 @@
 |  |  |  |
 |  |  |  |
 
+<br>
 
-## 名
+
+# 名
 - nome
 
 <ul><li></li><li></li><li></li></ul>

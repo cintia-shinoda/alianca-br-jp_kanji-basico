@@ -1,7 +1,7 @@
 #### Aula 06 - 23/08/2023
 
 
-## 主
+# 主
 <ul><li>o (a) principal</li><li>chefe, proprietário</li></ul>
 
 <ul><li>シュ</li><li>めし</li><li>おも</li></ul>
@@ -13,8 +13,10 @@
 | 主人 | しゅじん | proprietário |
 | 主婦 | しゅふ |  |
 
+<br>
 
-## 夫
+
+# 夫
 - marido
 
 <ul><li>フ</li><li>フウ</li><li>おっと</li></ul>
@@ -24,8 +26,10 @@
 | 夫 | おっと |  |
 | 夫婦 | ふうふ |  |
 
+<br>
 
-## 妻
+
+# 妻
 - esposa
 
 <ul><li>サイ</li><li>つま</li></ul>
@@ -35,8 +39,10 @@
 | 妻 | つま |  |
 | 夫妻 | ふさい |  |
 
+<br>
 
-## 奥
+
+# 奥
 - parte interna, interior
 
 <ul><li>オウ</li><li>おく</li></ul>
@@ -47,8 +53,10 @@
 | 奥 | おく |  |
 | 奥さん | おくさん |  |
 
+<br>
 
-## 友
+
+# 友
 - amigo
 
 <ul><li>コウ</li><li>とも</li></ul>
@@ -60,8 +68,10 @@
 | 親友 | しんゆう |  |
 | 友情 | ゆうじょう |  |
 
+<br>
 
-## 彼
+
+# 彼
 - ele
 
 <ul><li>ヒ</li><li>かれ</li><li>かの</li></ul>

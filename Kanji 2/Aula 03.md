@@ -1,7 +1,7 @@
 #### Aula 03 - 14/08/2023
 
 
-## 道
+# 道
 - caminho
 
 <ul><li>ドウ</li><li>みち</li></ul>
@@ -14,8 +14,10 @@
 | 柔道 | じゅうどう | Judô |
 | 北海道 | ほっかいどう | Hokkaido |
 
+<br>
 
-## 近
+
+# 近
 - perto
 
 <ul><li>キン</li><li>ちか・い</li></ul>
@@ -27,8 +29,10 @@
 | 最近 | さいきん | recentemente |
 | 近所 | きんじょ | vizinhança |
 
+<br>
 
-## 遠
+
+# 遠
 - longe
 
 <ul><li>エン</li><li>とお・い</li></ul>
@@ -39,7 +43,10 @@
 | 遠く | とおく | ao longe |
 | 遠足 | えんそく | longa caminhada, excursão |
 
-## 速
+<br>
+
+
+# 速
 - veloz
 
 <ul><li>ソク</li><li>はや・い</li><li>はや・める</li><li>すみ・やか</li></ul>
@@ -51,8 +58,10 @@
 | 速度 | そくど | velocidade |
 | 時速 | じそく | velocidade por hora |
 
+<br>
 
-## 遅
+
+# 遅
 <ul><li>lento</li><li>tarde (horário)</li></ul>
 
 <ul><li>チ</li><li>おそ・い</li><li>おく・れる</li><li>おく・らす</li></ul>
@@ -63,8 +72,10 @@
 | 遅れる | おくれる | atrasar-se |
 | 遅刻 | ちこく | atraso |
 
+<br>
 
-## 青
+
+# 青
 - azul
 
 <ul><li>セイ</li><li>あお</li><li>あお・い</li></ul>

@@ -1,7 +1,7 @@
 #### Aula 04 - 16/08/2023
 
 
-## 晴
+# 晴
 -　tempo bom
 
 <ul><li>セイ</li><li>は・れる</li><li>は・らす</li></ul>
@@ -15,7 +15,7 @@
 <br>
 
 
-## 静
+# 静
 - silencioso, tranquilo
 
 <ul><li>セイ</li><li>しず</li><li>しず・か</li><li>しず・まる</li><li>しず・める</li></ul>
@@ -29,7 +29,7 @@
 <br>
 
 
-## 寺
+# 寺
 - templo budista
 
 <ul><li>ジ</li><li>てら</li></ul>
@@ -43,7 +43,7 @@
 <br>
 
 
-## 持
+# 持
 <ul><li>segurar, portar</li><li>ter, possuir</li></ul>
 
 <ul><li>ジ</li><li>も・つ</li></ul>
@@ -59,7 +59,7 @@
 <br>
 
 
-## 荷
+# 荷
 - carga, bagagem
 
 <ul><li>カ</li><li>に</li></ul>
@@ -75,7 +75,7 @@
 <br>
 
 
-## 歌
+# 歌
 <ul><li>canção</li><li>cantar</li></ul>
 
 <ul><li>カ</li><li>うた</li><li>うた・う</li></ul>
