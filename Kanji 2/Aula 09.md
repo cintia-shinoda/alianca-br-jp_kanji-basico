@@ -1,22 +1,8 @@
-#### Aula 07 - 28/08/2023
+#### Aula 09 - 04/09/2023
 
 
-## 不
-- prefixo de negação
-
-<ul><li></li><li></li></ul>
-
-|  | furigana | tradução |
-|:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-
-## 早
-<ul><li>cedo</li><li>sem demora, imediatamente</li></ul>
+## 言
+- dizer
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -26,22 +12,43 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+|  |  |  |
 
 
-## 有
-<ul><li>existir, estar presente</li><li>possuir, ter</li></ul>
+## 通
+<ul><li>passar em frente, passar por</li><li>frequentar</li></ul>
 
-<ul><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
-## 名
-- nome
+## 着
+<ul><li>vestir</li><li>chegar</li><li>aderir</li></ul>
+
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
+
+|  | furigana | tradução |
+|:---:|:---:|:---:|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## 止
+- parar
 
 <ul><li></li><li></li><li></li></ul>
 

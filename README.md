@@ -59,13 +59,13 @@
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 07/08/2023 | Revisão |  |
 | &check; | 02 | 09/08/2023 | Revisão |  |
-| &check; | 03 | 14/08/2023 | 道・近・遠・速・遅・青・ | 6 |
-| &check; | 04 | 16/08/2023 | 晴・静・寺・持・荷・歌 | 6 |
-| &check; | 05 | 21/08/2023 | 母・父・兄・弟・姉・妹 | 6 |
-| &check; | 06 | 23/08/2023 | 主・夫・妻・奥・友・彼 | 6 |
-| &check; | 07 | 28/08/2023 | 不・早・有・名 | 4 |
-| &check; | 08 | 30/08/2023 | 元・気・親・切・便・利・若・忙 | 8 |
-|  | 09 | 04/09/2023 |  |  |
+| &check; | [03](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2003.md) | 14/08/2023 | 道・近・遠・速・遅・青・ | 6 |
+| &check; | [04](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2004.md) | 16/08/2023 | 晴・静・寺・持・荷・歌 | 6 |
+| &check; | [05](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2005.md) | 21/08/2023 | 母・父・兄・弟・姉・妹 | 6 |
+| &check; | [06](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2006.md) | 23/08/2023 | 主・夫・妻・奥・友・彼 | 6 |
+| &check; | [07](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2007.md) | 28/08/2023 | 不・早・有・名 | 4 |
+| &check; | [08](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2008.md) | 30/08/2023 | 元・気・親・切・便・利・若・忙 | 8 |
+| &check; | [09](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2009.md) | 04/09/2023 | 言・通・着・止 | 4 |
 |  | 10 | 06/09/2023 |  |  |
 |  | 11 | 11/09/2023 |  |  |
 |  | 12 | 13/09/2023 |  |  |
@@ -91,4 +91,4 @@
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **36 / 142** |
+| **$\sum$** |  |  |  | **40 / 142** |
