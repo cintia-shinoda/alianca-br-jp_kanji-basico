@@ -66,7 +66,7 @@
 | &check; | [07](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2007.md) | 28/08/2023 | 不・早・有・名 | 4 |
 | &check; | [08](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2008.md) | 30/08/2023 | 元・気・親・切・便・利・若・忙 | 8 |
 | &check; | [09](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2009.md) | 04/09/2023 | 言・通・着・止 | 4 |
-|  | 10 | 06/09/2023 |  |  |
+| &check; | 10 | 06/09/2023 | 歩・走・渡・帰・動・働・乗・降 | 8 |
 |  | 11 | 11/09/2023 |  |  |
 |  | 12 | 13/09/2023 |  |  |
 |  | 13 | 18/09/2023 |  |  |
@@ -91,4 +91,4 @@
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **40 / 142** |
+| **$\sum$** |  |  |  | **48 / 142** |
