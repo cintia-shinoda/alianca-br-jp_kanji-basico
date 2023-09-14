@@ -4,7 +4,7 @@
 # 不
 - prefixo de negação
 
-<ul><li></li><li></li></ul>
+<ul><li>フ</li><li>ブ</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|

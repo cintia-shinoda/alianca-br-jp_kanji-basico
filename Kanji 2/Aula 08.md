@@ -4,7 +4,7 @@
 # 元
 <ul><li>origem, início</li><li>estado ou condição original</li></ul>
 
-<ul><li></li><li></li><li></li></ul>
+<ul><li>ゲン</li><li>ガン</li><li>もと</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -20,7 +20,7 @@
 # 気
 <ul><li>gás, vapor</li><li>atmosfera</li><li>estado de espírito</li><li>energia vital</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>キ</li><li>ケ</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -36,7 +36,7 @@
 # 親
 <ul><li>pais</li><li>parentes</li></ul>
 
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li>シン</li><li>おや</li><li>した・しい</li><li>した・しむ</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -51,7 +51,7 @@
 # 切
 - cortar
 
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li>セツ</li><li>サイ</li><li>き・る</li><li>き・れる</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -66,7 +66,7 @@
 # 便
 <ul><li>conveniência</li><li>notícias</li><li>correspondência</li><li>serviço de transporte</li><li>excremento</li></ul>
 
-<ul><li></li><li></li><li></li></ul>
+<ul><li>ベン</li><li>ビン</li><li>たよ・り</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -82,7 +82,7 @@
 # 利
 - vantagem, lucro
 
-<ul><li></li><li></li></ul>
+<ul><li>リ</li><li>き・く</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -98,7 +98,7 @@
 # 若
 <ul><li>jovem</li><li>ou então</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>ジャク</li><li>ニャク</li><li>わか・い</li><li>も・しくは</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
@@ -112,7 +112,7 @@
 # 忙
 - ocupado, atarefado
 
-<ul><li></li><li></li></ul>
+<ul><li>ボウ</li><li>いそが・しい</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|

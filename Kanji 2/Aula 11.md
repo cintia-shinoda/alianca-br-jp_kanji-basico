@@ -8,11 +8,13 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 学部 | がくぶ |  |
-| 一部 | いちぶ |  |
-| 部下 | ぶか |  |
-| 部分 | ぶぶん |  |
-| 部屋 | へや |  |
+| 学部 | がくぶ | departamento de universidade |
+| 一部 | いちぶ | uma parte, uma porção |
+| 部下 | ぶか | pessoa subordinada |
+| 部分 | ぶぶん | porção, parte |
+| 部屋 | へや | quarto |
+
+<br>
 
 
 # 駅
@@ -22,9 +24,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 駅 | えき |  |
-| 駅前 | えきまえ |  |
+| 駅 | えき | estação |
+| 駅前 | えきまえ | em frente à estação |
 
+<br>
 
 
 # 北
@@ -34,10 +37,12 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 北 | きた |  |
-| 北米 | ほくべい |  |
-| 北極 | ほっきょく |  |
-| 北海道 | ほっかいどう |  |
+| 北 | きた | norte |
+| 北米 | ほくべい | América do Norte |
+| 北極 | ほっきょく | Polo Norte |
+| 北海道 | ほっかいどう | Hokkaido |
+
+<br>
 
 
 # 南
@@ -47,10 +52,12 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 南 | みなみ |  |
-| 南口 | みなみぐち |  |
-| 南米 | なんべい |  |
-| 南部 | なんぶ |  |
+| 南 | みなみ | sul |
+| 南口 | みなみぐち | entrada/saída sul |
+| 南米 | なんべい | América do Sul |
+| 南部 | なんぶ | região sul |
+
+<br>
 
 
 # 東
@@ -60,10 +67,12 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 東 | ひがし |  |
-| 東京 | とうきょう |  |
-| 東洋 | とうよう |  |
-| 関東 | かんとう |  |
+| 東 | ひがし | leste |
+| 東京 | とうきょう | Tóquio |
+| 東洋 | とうよう | Oriente |
+| 関東 | かんとう | Kanto - região que circunda Tóquio |
+
+<br>
 
 
 # 西
@@ -73,8 +82,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 西 | にし |  |
-| 西口 | にしぐち |  |
-| 西洋 | せいよう |  |
-| 西部 | せいぶ |  |
-| 関西 | かんさい |  |
+| 西 | にし | oeste |
+| 西口 | にしぐち | entrada/saída oeste |
+| 西洋 | せいよう | Ocidente |
+| 西部 | せいぶ | região oeste |
+| 関西 | かんさい | Kansai - região de Osaka |
