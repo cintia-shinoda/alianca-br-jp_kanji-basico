@@ -69,7 +69,7 @@
 | &check; | [10](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2010.md) | 06/09/2023 | 歩・走・渡・帰・動・働・乗・降 | 8 |
 | &check; | [11](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2011.md) | 11/09/2023 | 部・駅・北・南・東・西 | 6 |
 | &check; | 12 | 13/09/2023 | 内・外・右・左・社・院 | 6 |
-|  | 13 | 18/09/2023 |  |  |
+| F | 13 | 18/09/2023 |  |  |
 |  | 14 | 20/09/2023 |  |  |
 |  | 15 | 25/09/2023 |  |  |
 |  | 16 | 27/09/2023 |  |  |
