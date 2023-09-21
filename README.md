@@ -1,6 +1,6 @@
 # Aliança Cultural Brasil-Japão - Kanji Básico
 
----
+
 ### ```Flashcards```
 [Kanji 1](https://quizlet.com/br/792091545/kanji-1-flash-cards/?funnelUUID=b95de232-26d0-418a-b5a2-598bb6b57d9b)
 
