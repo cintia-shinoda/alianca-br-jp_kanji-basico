@@ -75,18 +75,3 @@
 | 地図 | ちず | mapa |
 | 図書室 | としょしつ | biblioteca |
 | 天気図 | てんきず | mapa meteorológico |
-
-<br>
-
-
-# 館
-- prédio público
-
-- カン
-
-|  | furigana | tradução |
-|:---:|:---:|:---:|
-| 図書館 | としょかん | biblioteca |
-| 体育館 | たいいくかん | ginásio |
-| 映画館 | えいがかん | cinema |
-| 大使館 | たいしかん | embaixada |

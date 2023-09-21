@@ -1,10 +1,13 @@
 # Aliança Cultural Brasil-Japão - Kanji Básico
 
+---
 ### ```Flashcards```
 [Kanji 1](https://quizlet.com/br/792091545/kanji-1-flash-cards/?funnelUUID=b95de232-26d0-418a-b5a2-598bb6b57d9b)
 
 [Kanji 2](https://quizlet.com/br/817726587/kanji-2-flash-cards/?funnelUUID=2679492b-a70b-4d47-9557-e56ef00b7ef8)
 <br>
+
+---
 
 ### ```Cronograma e Listas de Kanjis```
 
@@ -68,13 +71,13 @@
 | &check; | [09](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2009.md) | 04/09/2023 | 言・通・着・止 | 4 |
 | &check; | [10](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2010.md) | 06/09/2023 | 歩・走・渡・帰・動・働・乗・降 | 8 |
 | &check; | [11](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2011.md) | 11/09/2023 | 部・駅・北・南・東・西 | 6 |
-| &check; | 12 | 13/09/2023 | 内・外・右・左・社・院 | 6 |
-| F | 13 | 18/09/2023 |  |  |
-|  | 14 | 20/09/2023 |  |  |
+| &check; | [12](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2012.md) | 13/09/2023 | 内・外・右・左・社・院 | 6 |
+| F | [13](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2013.md) | 18/09/2023 | 住・所・番・号・図 | 5 |
+| &check; | [14](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2014.md) | 20/09/2023 | 館・工・場・公・園・地・鉄 | 7 |
 |  | 15 | 25/09/2023 |  |  |
 |  | 16 | 27/09/2023 |  |  |
 |  | 17 | 02/10/2023 |  |  |
-|  | 18 | 04/10/2023 |  |  |
+|  | 18 | 04/10/2023 | Prova |  |
 |  | 19 | 09/10/2023 |  |  |
 |  | 20 | 11/10/2023 |  |  |
 |  | 21 | 16/10/2023 |  |  |
@@ -91,4 +94,4 @@
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **60 / 142** |
+| **$\sum$** |  |  |  | **72 / 142** |
