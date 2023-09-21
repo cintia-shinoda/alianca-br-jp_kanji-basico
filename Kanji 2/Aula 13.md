@@ -11,7 +11,7 @@
 | 住む | すむ | morar, residir, habitar |
 | 住まい | すまい | residência |
 | 住宅 | じゅうたく | prédio residencial |
-| 住民 | じゅうみん | residente, habitante |
+| 住民 | じゅうみん | morador, habitante |
 | 永住 | えいじゅう | residência permanente |
 
 <br>
@@ -26,9 +26,9 @@
 |:---:|:---:|:---:|
 | 所 | ところ | lugar |
 | 台所 | だいどころ | cozinha |
-| 住所 | じゅうしょ | domicílio, residência |
-| 近所 | きんじょ | bairro |
-| 役所 | やくしょ | escritório governamental |
+| 住所 | じゅうしょ | endereço |
+| 近所 | きんじょ | bairro, vizinhança |
+| 役所 | やくしょ | repartição pública |
 
 <br>
 
