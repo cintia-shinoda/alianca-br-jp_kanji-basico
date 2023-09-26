@@ -74,7 +74,7 @@
 | &check; | [12](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2012.md) | 13/09/2023 | 内・外・右・左・社・院 | 6 |
 | F | [13](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2013.md) | 18/09/2023 | 住・所・番・号・図 | 5 |
 | &check; | [14](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2014.md) | 20/09/2023 | 館・工・場・公・園・地・鉄 | 7 |
-|  | 15 | 25/09/2023 |  |  |
+| &check; | 15 | 25/09/2023 | Revisão |  |
 |  | 16 | 27/09/2023 |  |  |
 |  | 17 | 02/10/2023 |  |  |
 |  | 18 | 04/10/2023 | Prova |  |
