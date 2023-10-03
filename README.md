@@ -76,7 +76,7 @@
 | &check; | [14](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2014.md) | 20/09/2023 | 館・工・場・公・園・地・鉄 | 7 |
 | &check; | 15 | 25/09/2023 | Revisão |  |
 | &check; | 16 | 27/09/2023 | Revisão |  |
-|  | 17 | 02/10/2023 |  |  |
+| F | 17 | 02/10/2023 | Revisão |  |
 |  | 18 | 04/10/2023 | Prova |  |
 |  | 19 | 09/10/2023 |  |  |
 |  | 20 | 11/10/2023 |  |  |
