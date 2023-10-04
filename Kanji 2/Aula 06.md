@@ -8,10 +8,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 主な | おもな |  |
-| 持ち主 | もちぬし |  |
-| 主人 | しゅじん | proprietário |
-| 主婦 | しゅふ |  |
+| 主な | おもな | principal |
+| 持ち主 | もちぬし | proprietário |
+| 主人 | しゅじん | marido |
+| 主婦 | しゅふ | dona de casa |
 
 <br>
 
@@ -23,8 +23,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 夫 | おっと |  |
-| 夫婦 | ふうふ |  |
+| 夫 | おっと | marido |
+| 夫婦 | ふうふ | casal (casados) |
 
 <br>
 
@@ -36,8 +36,8 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 妻 | つま |  |
-| 夫妻 | ふさい |  |
+| 妻 | つま | esposa |
+| 夫妻 | ふさい | Sr./Sra. |
 
 <br>
 
@@ -49,9 +49,9 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 奥行き | おくゆき |  |
-| 奥 | おく |  |
-| 奥さん | おくさん |  |
+| 奥行き | おくゆき | profundidade |
+| 奥 | おく | do fundo / interior |
+| 奥さん | おくさん | esposa (de outra pessoa) |
 
 <br>
 
@@ -63,10 +63,10 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 友達 | ともだち |  |
-| 友人 | ゆうじん |  |
-| 親友 | しんゆう |  |
-| 友情 | ゆうじょう |  |
+| 友達 | ともだち | amigo |
+| 友人 | ゆうじん | amigo |
+| 親友 | しんゆう | amigo próximo |
+| 友情 | ゆうじょう | amizade (sentimento) |
 
 <br>
 
@@ -78,7 +78,7 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| 彼 | かれ |  |
+| 彼 | かれ | ele |
 | 彼ら・彼等 |  |  |
-| 彼女 | かのじょ |  |
-| 彼岸 | ひがん |  |
+| 彼女 | かのじょ | ela / namorada |
+| 彼岸 | ひがん | período dos equinócios em que se visita os antepassados (do budismo) |
