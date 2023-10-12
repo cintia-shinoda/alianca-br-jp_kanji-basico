@@ -79,7 +79,7 @@
 | F | 17 | 02/10/2023 | Revisão |  |
 | F | 18 | 04/10/2023 | Prova |  |
 | &check; | [19](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2019.md) | 09/10/2023 | 京・都・府・県・区・市 | 6 |
-|  | 20 | 11/10/2023 |  |  |
+| &check; | [20](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2020.md) | 11/10/2023 | 町・村・島・様・送 | 5 |
 |  | 21 | 16/10/2023 |  |  |
 |  | 22 | 18/10/2023 |  |  |
 |  | 23 | 23/10/2023 |  |  |
@@ -94,4 +94,4 @@
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **78 / 142** |
+| **$\sum$** |  |  |  | **83 / 142** |
