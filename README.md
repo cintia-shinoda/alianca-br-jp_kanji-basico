@@ -80,8 +80,8 @@
 | F | 18 | 04/10/2023 | Prova |  |
 | &check; | [19](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2019.md) | 09/10/2023 | 京・都・府・県・区・市 | 6 |
 | &check; | [20](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2020.md) | 11/10/2023 | 町・村・島・様・送 | 5 |
-| &check; | [21]https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2021.md) | 16/10/2023 | 問・題・宿・質・勉・強 | 6 |
-|  | 22 | 18/10/2023 |  |  |
+| &check; | [21](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2021.md) | 16/10/2023 | 問・題・宿・質・勉・強 | 6 |
+| &check; | [22](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2021.md) | 18/10/2023 | 答・研・究・練・習・留 | 6 |
 |  | 23 | 23/10/2023 |  |  |
 |  | 24 | 25/10/2023 |  |  |
 |  | 25 | 30/10/2023 |  |  |
@@ -94,4 +94,4 @@
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **89 / 142** |
+| **$\sum$** |  |  |  | **95 / 142** |
