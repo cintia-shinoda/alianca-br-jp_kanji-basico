@@ -84,7 +84,7 @@
 | &check; | [22](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2022.md) | 18/10/2023 | 答・研・究・練・習・留 | 6 |
 | &check; | [23](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2023.md) | 23/10/2023 | 政・治・理・科・化 | 5 |
 | &check; | [24](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2024.md) | 25/10/2023 | 数・経・済・医・育・歴・史 | 7 |
-|  | 25 | 30/10/2023 |  |  |
+| &check; | 25 | 30/10/2023 | 音・楽・白・赤・黒・色 | 6 |
 |  | 26 | 01/11/2023 |  |  |
 |  | 27 | 06/11/2023 |  |  |
 |  | 28 | 08/11/2023 |  |  |
@@ -93,5 +93,7 @@
 |  | 31 | 22/11/2023 |  |  |
 |  | 32 | 27/11/2023 |  |  |
 |  | 33 | 29/11/2023 |  |  |
+|  | 34 | 04/12/2023 |  | Prova Final |
+|  | 35 | 06/12/2023 |  | Prova Substitutiva |
 |  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **107 / 142** |
+| **$\sum$** |  |  |  | **113 / 142** |
