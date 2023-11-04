@@ -6,7 +6,7 @@
 
 <ul><li>ナイ</li><li>ダイ</li><li>うち</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 内側 | うちがわ |  |
 | 国内 | こくない |  |
@@ -22,7 +22,7 @@
 
 <ul><li>ガイ</li><li>ゲ</li><li>そと</li><li>ほか</li><li>はず・す</li><li>はず・れる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 外 | そと | fora |
 | 外す | はずす |  |
@@ -37,7 +37,7 @@
 
 <ul><li>ウ</li><li>コウ</li><li>みぎ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 右 | みぎ | direita |
 | 右手 | みぎて |  |
@@ -54,7 +54,7 @@
 
 <ul><li>サ</li><li>ひだり</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 左 | ひだり | esquerda |
 | 左手 | ひだりて |  |
@@ -69,7 +69,7 @@
 
 <ul><li>シャ</li><li>やしろ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 神社 | じんじゃ |  |
 | 会社 | かいしゃ |  |
@@ -85,7 +85,7 @@
 
 - イン
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 病院 | びょういん |  |
 | 入院 | にゅういん |  |

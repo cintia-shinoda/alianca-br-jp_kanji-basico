@@ -6,7 +6,7 @@
 
 <ul><li>オン</li><li>イン</li><li>おと</li><li>ね</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 音 | おと |  |
 | 足音 | あしおと |  |
@@ -22,7 +22,7 @@
 
 <ul><li>ガク</li><li>ラク</li><li>たの・しい</li><li>たの・しむ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 楽しい | たのしい |  |
 | 楽 | らく |  |
@@ -37,7 +37,7 @@
 
 <ul><li>ハク</li><li>ビャク</li><li>しろ</li><li>しろ・い</li><li>しら</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 白鳥 | はくちょう |  |
 | 白い | しろい |  |
@@ -52,7 +52,7 @@
 
 <ul><li>セキ</li><li>シャク</li><li>あか</li><li>あか・い</li><li>あか・らむ</li><li>あか・らめる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 赤い | あかい |  |
 | 赤字 | あかじ |  |
@@ -66,7 +66,7 @@
 
 <ul><li>コク</li><li>くろ</li><li>くろ・い</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 白黒 | しろくろ |  |
 | 黒い | くろい |  |
@@ -80,7 +80,7 @@
 
 <ul><li>ショク</li><liシキ</li><li>いろ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 色 | いろ |  |
 | 暖色 | だんしょく |  |

@@ -6,7 +6,7 @@
 
 - カン
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 図書館 | としょかん | biblioteca |
 | 体育館 | たいいくかん | ginásio |
@@ -21,7 +21,7 @@
 
 <ul><li>コウ</li><li>ク</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 大工 | だいく |  |
 | 工業 | こうぎょう |  |
@@ -36,7 +36,7 @@
 
 <ul><li>ジョウ</li><li>ば</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 広場 | ひろば |  |
 | 場所 | ばしょ |  |
@@ -52,7 +52,7 @@
 
 <ul><li>コウ</li><li>おおやけ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 公 | おおやけ |  |
 | 公開 | こうかい |  |
@@ -66,7 +66,7 @@
 
 <ul><li>エン</li><li>その</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 公園 | こうえん |  |
 | 動物園 | どうぶつえん |  |
@@ -81,7 +81,7 @@
 
 <ul><li>チ</li><li>ジ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 地方 | ちほう |  |
 | 地球 | ちきゅう |  |
@@ -98,7 +98,7 @@
 
 - テツ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 鉄 | てつ |  |
 | 鉄分 | てつぶん |  |

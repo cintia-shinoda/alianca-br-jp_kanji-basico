@@ -6,7 +6,7 @@
 
 <ul><li>チョウ</li><li>まち</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 港町 | みなとまち |  |
 | 町工場 | まちこうば |  |
@@ -20,7 +20,7 @@
 
 <ul><li>ソン</li><li>むら</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 村 | むら |  |
 | 農村 | のうそん |  |
@@ -33,7 +33,7 @@
 
 <ul><li>トウ</li><li>しま</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 島 | しま |  |
 | 島国 | しまぐに |  |
@@ -52,7 +52,7 @@
 
 <ul><li>ヨウ</li><li>さま</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | お客様 | おきゃくさま |  |
 | 様子 | ようす |  |
@@ -66,7 +66,7 @@
 
 <ul><li>ソウ</li><li>おく・る</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 送る | おくる |  |
 | 送金 | そうきん |  |

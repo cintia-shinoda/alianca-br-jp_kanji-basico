@@ -6,7 +6,7 @@
 
 <ul><li>ドウ</li><li>みち</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 道 | みち | caminho |
 | 高速道路 | こうそくどうろ | rodovia |
@@ -22,7 +22,7 @@
 
 <ul><li>キン</li><li>ちか・い</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 近い | ちかい | perto |
 | 近く | ちかく | arredores |
@@ -37,7 +37,7 @@
 
 <ul><li>エン</li><li>とお・い</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 遠い | とおい | longe |
 | 遠く | とおく | ao longe |
@@ -51,7 +51,7 @@
 
 <ul><li>ソク</li><li>はや・い</li><li>はや・める</li><li>すみ・やか</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 速い | はやい | veloz |
 | 速達 | そくたつ | entrega expressa |
@@ -66,7 +66,7 @@
 
 <ul><li>チ</li><li>おそ・い</li><li>おく・れる</li><li>おく・らす</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 遅い | おそい | lento, tarde |
 | 遅れる | おくれる | atrasar-se |
@@ -80,7 +80,7 @@
 
 <ul><li>セイ</li><li>あお</li><li>あお・い</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 青い | あおい | azul |
 | 青木さん | あおきさん | Aoki-san |

@@ -6,7 +6,7 @@
 
 <ul><li>スウ</li><li>ス</li><li>かず</li><li>かぞ・える</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 数える | かぞえる |  |
 | 人数 | にんず |  |
@@ -22,7 +22,7 @@
 
 <ul><li>ケイ</li><li>キョウ</li><li>へる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 経由 | けいゆ |  |
 | 経理 | けいり |  |
@@ -36,7 +36,7 @@
 
 <ul><li>サイ</li><li>す・む</li><li>す・ます</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 済む | すむ |  |
 | 返済 | へんさい |  |
@@ -50,7 +50,7 @@
 
 - イ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 医学 | いがく |  |
 | 医者 | いしゃ |  |
@@ -66,7 +66,7 @@
 
 <ul><li>イク</li><li>そだ・つ</li><li>そだ・てる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 育てる | そだてる |  |
 | 体育 | たいいく |  |
@@ -81,7 +81,7 @@
 
 - レキ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 履歴書 | りれきしょ |  |
 | 学歴 | がくれき |  |
@@ -96,7 +96,7 @@
 
 - シ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 歴史 | れきし |  |
 | 日本史 | にほんし |  |

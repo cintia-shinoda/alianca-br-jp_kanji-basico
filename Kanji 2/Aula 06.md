@@ -6,7 +6,7 @@
 
 <ul><li>シュ</li><li>めし</li><li>おも</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 主な | おもな | principal |
 | 持ち主 | もちぬし | proprietário |
@@ -21,7 +21,7 @@
 
 <ul><li>フ</li><li>フウ</li><li>おっと</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 夫 | おっと | marido |
 | 夫婦 | ふうふ | casal (casados) |
@@ -34,7 +34,7 @@
 
 <ul><li>サイ</li><li>つま</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 妻 | つま | esposa |
 | 夫妻 | ふさい | Sr./Sra. |
@@ -47,7 +47,7 @@
 
 <ul><li>オウ</li><li>おく</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 奥行き | おくゆき | profundidade |
 | 奥 | おく | do fundo / interior |
@@ -61,7 +61,7 @@
 
 <ul><li>コウ</li><li>とも</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 友達 | ともだち | amigo |
 | 友人 | ゆうじん | amigo |
@@ -76,7 +76,7 @@
 
 <ul><li>ヒ</li><li>かれ</li><li>かの</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 彼 | かれ | ele |
 | 彼ら・彼等 |  |  |

@@ -6,7 +6,7 @@
 
 <ul><li>キョウ</li><li>ケイ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 京都 | きょうと |  |
 | 東京 | とうきょう |  |
@@ -19,7 +19,7 @@
 
 <ul><li>ト</li><li>ツ</li><li>みやこ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 都市 | とし |  |
 | 首都 | しゅと |  |
@@ -33,7 +33,7 @@
 
 - フ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 政府 | せいふ |  |
 | 大阪府 | おおさかふ |  |
@@ -45,7 +45,7 @@
 
 - ケン
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 県 | けん |  |
 | 県庁 | けんちょう |  |
@@ -57,7 +57,7 @@
 
 - ク
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 区 | く |  |
 | 区役所 | くやくしょ |  |
@@ -70,7 +70,7 @@
 
 <ul><li>シ</li><li>いち</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 青空市 | あおぞらいち |  |
 | 市場 | いちば |  |

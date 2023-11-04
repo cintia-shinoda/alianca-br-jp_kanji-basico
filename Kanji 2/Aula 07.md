@@ -6,7 +6,7 @@
 
 <ul><li>フ</li><li>ブ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 不足 | ふそく | insuficiência |
 | 不明 | ふめい | desconhecido |
@@ -22,7 +22,7 @@
 
 <ul><li>ソウ</li><li>サッ</li><li>はや・い</li><li>はや・める</li><li>はや・まる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 早い | はやい | cedo |
 | 早く | はやく | adv. |
@@ -37,7 +37,7 @@
 
 <ul><li>コウ</li><li>ウ</li><li>あ・る</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 有力な | ゆうりょく | influente |
 | 有名な | ゆうめい | famoso |
@@ -51,7 +51,7 @@
 
 <ul><li>メイ</li><li>ミョウ</li><li>な</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 名前 | なまえ | nome |
 | 名古屋 | なごや | Nagoya |

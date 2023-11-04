@@ -6,7 +6,7 @@
 
 <ul><li>セイ</li><li>は・れる</li><li>は・らす</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 晴れ | はれ | tempo bom |
 | 晴れる | はれる | clarear, fazer tempo bom |
@@ -20,7 +20,7 @@
 
 <ul><li>セイ</li><li>しず</li><li>しず・か</li><li>しず・まる</li><li>しず・める</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 静かな | しずかな | silencioso, tranquilo |
 | 安静 | あんせい | descanso, repouso |
@@ -34,7 +34,7 @@
 
 <ul><li>ジ</li><li>てら</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 寺 | てら | templo budista |
 | 寺院 | じいん | templo |
@@ -48,7 +48,7 @@
 
 <ul><li>ジ</li><li>も・つ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 持つ | もつ | segurar, portar, possuir |
 | 持ち帰る | もちかえる | levar para casa |
@@ -64,7 +64,7 @@
 
 <ul><li>カ</li><li>に</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 荷物 | にもつ | bagagem |
 | 手荷物 | てにもつ | bagagem de mão |
@@ -80,7 +80,7 @@
 
 <ul><li>カ</li><li>うた</li><li>うた・う</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 歌 | うた | canção |
 | 歌う | うたう | cantar |

@@ -6,7 +6,7 @@
 
 <ul><li>モン</li><li>とい</li><li>と・う</li><li>とん</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 問い | とい |  |
 | 問い合わせ | といあわせ |  |
@@ -19,7 +19,7 @@
 
 - ダイ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 問題 | もんだい |  |
 | 話題 | わだい |  |
@@ -34,7 +34,7 @@
 
 <ul><li>シュク</li><li>やど</li><li>やど・る</li><li>やど・す</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 宿 | やど |  |
 | 下宿 | げしゅく |  |
@@ -49,7 +49,7 @@
 
 <ul><li>シツ</li><li>シチ</li><li>チ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 質 | しつ |  |
 | 質問 | しつもん |  |
@@ -64,7 +64,7 @@
 
 - ベン
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 勉強 | べんきょう |  |
 
@@ -76,7 +76,7 @@
 
 <ul><li>キョウ</li><li>ゴウ</li><li>つよ・い</li><li>つよ・まる</li><li>つよ・める</li><li>し・いる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 強い | つよい |  |
 | 強火 | つよび |  |

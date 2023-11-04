@@ -5,7 +5,7 @@
 -　mãe
 <ul><li>ボ</li><li>はは</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 母 | はは | mãe (da pessoa que fala) |
 | 母親 | ははおや | mãe |
@@ -20,7 +20,7 @@
 
 <ul><li>フ</li><li>ちち</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 父 | ちち | pai (da pessoa que fala) |
 | 父親 | ちちおや |  |
@@ -34,7 +34,7 @@
 
 <ul><li>ケイ</li><li>キョウ</li><li>あに</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 兄 | あに | irmão mais velho (da pessoa que fala) |
 | お兄さん | おにいさん | irmão mais velho (de outra pessoa) |
@@ -48,7 +48,7 @@
 
 <ul><li>テイ</li><li>ダイ</li><li>デ</li><li>おとうと</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 弟 | おとうと | irmão mais novo |
 | 兄弟 | きょうだい | irmãos |
@@ -62,7 +62,7 @@
 
 <ul><li>シ</li><li>あね</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 姉 | あね | irmão mais velha (da pessoa que fala) |
 | お姉さん | おねえさん | irmã mais velha (de outra pessoa) |
@@ -75,7 +75,7 @@
 
 <ul><li>マイ</li><li>いもうと</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 妹 | いもうと | irmã mais nova |
 | 姉妹 | しまい | irmãs |

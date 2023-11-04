@@ -6,7 +6,7 @@
 
 - ブ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 学部 | がくぶ | departamento de universidade |
 | 一部 | いちぶ | uma parte, uma porção |
@@ -22,7 +22,7 @@
 
 - エキ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 駅 | えき | estação |
 | 駅前 | えきまえ | em frente à estação |
@@ -35,7 +35,7 @@
 
 <ul><li>ホク</li><li>きた</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 北 | きた | norte |
 | 北米 | ほくべい | América do Norte |
@@ -50,7 +50,7 @@
 
 <ul><li>ナン</li><li>ナ</li><li>みなみ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 南 | みなみ | sul |
 | 南口 | みなみぐち | entrada/saída sul |
@@ -65,7 +65,7 @@
 
 <ul><li>トウ</li><li>ひがし</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 東 | ひがし | leste |
 | 東京 | とうきょう | Tóquio |
@@ -80,7 +80,7 @@
 
 <ul><li>セイ</li><li>サイ</li><li>にし</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 西 | にし | oeste |
 | 西口 | にしぐち | entrada/saída oeste |

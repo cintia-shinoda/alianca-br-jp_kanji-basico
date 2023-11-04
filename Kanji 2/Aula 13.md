@@ -6,7 +6,7 @@
 
 <ul><li>ジュウ</li><li>す・む</li><li>す・まう</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 住む | すむ | morar, residir, habitar |
 | 住まい | すまい | residência |
@@ -22,7 +22,7 @@
 
 <ul><li>ショ</li><li>ところ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 所 | ところ | lugar |
 | 台所 | だいどころ | cozinha |
@@ -38,7 +38,7 @@
 
 - バン
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 一番 | いちばん | número um, primeiro lugar |
 | 番組 | ばんぐみ | programa (TV) |
@@ -53,7 +53,7 @@
 
 - ゴウ
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 〜号 | 〜ごう | número, edição, modelo |
 | 〜号車 | 〜ごうしゃ | sufixo para número do carro do trem |
@@ -70,7 +70,7 @@
 
 <ul><li>ズ</li><li>ト</li><li>はか・る</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 地図 | ちず | mapa |
 | 図書室 | としょしつ | biblioteca |

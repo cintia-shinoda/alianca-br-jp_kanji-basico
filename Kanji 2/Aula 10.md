@@ -6,7 +6,7 @@
 
 <ul><li>ホ</li><li>ある・く</li><li>あゆ・む</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 歩く | あるく | andar, caminhar |
 | 散歩 | さんぽ |  |
@@ -24,7 +24,7 @@
 
 <ul><li>ソウ</li><li>はし・る</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 走る | はしる | correr |
 | 走行 | そうこう |  |
@@ -37,7 +37,7 @@
 
 <ul><li>ト</li><li>わた・る</li><li>わた・す</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 渡る | わたる |  |
 | 渡す | わたす |  |
@@ -51,7 +51,7 @@
 
 <ul><li>キ</li><li>かえ・る</li><li>かえ・す</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 帰る | かえる | voltar |
 | 持ち帰り | もちかえり |  |
@@ -66,7 +66,7 @@
 
 <ul><li>ドウ</li><li>うご・く</li><li>うご・かす</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 動く | うごく |  |
 | 動物 | どうぶつ |  |
@@ -82,7 +82,7 @@
 
 <ul><li>ドウ</li><li>はたら・く</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 働く | はたらく | trabalhar |
 | 労働 | ろうどう |  |
@@ -96,7 +96,7 @@
 
 <ul><li>キョウ</li><li>の・る</li><li>の・せる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 乗る | のる | embarcar |
 | 乗せる | のせる |  |
@@ -112,7 +112,7 @@
 
 <ul><li>コウ</li><li>お・りる</li><li>お・ろす</li><li>お・る</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 降りる | おりる |  |
 | 降る | ふる |  |

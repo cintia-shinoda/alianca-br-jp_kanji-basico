@@ -6,7 +6,7 @@
 
 <ul><li>ゲン</li><li>ゴン</li><li>い・う</li><li>こと</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 言う | いう | dizer |
 | 方言 | ほうげん |  |
@@ -22,7 +22,7 @@
 
 <ul><li>ツウ</li><li>ツ</li><li>とお・る</li><li>とお・す</li><li>とお・す</li><li>かよ・う</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 通 | とおる |  |
 | 通う | かよう |  |
@@ -40,7 +40,7 @@
 
 <ul><li>チャク</li><li>き・る</li><li>き・せる</li><li>つ・く</li><li>つ・ける</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 着る | きる | vestir |
 | 着く | つく |  |
@@ -58,7 +58,7 @@
 
 <ul><li>シ</li><li>と・まる</li><li>と・める</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 止まる | とまる | parar |
 | 止める | とめる |  |

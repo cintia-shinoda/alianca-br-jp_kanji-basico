@@ -6,7 +6,7 @@
 
 <ul><li>ゲン</li><li>ガン</li><li>もと</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 元 | もと | início |
 | 手元 | てもと | ao alcance das mãos |
@@ -22,7 +22,7 @@
 
 <ul><li>キ</li><li>ケ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 気持ち | きもち |  |
 | 天気 | てんき | condição atmosférica |
@@ -38,7 +38,7 @@
 
 <ul><li>シン</li><li>おや</li><li>した・しい</li><li>した・しむ</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 親 | おや | pais |
 | 親しい | したしい | íntimo |
@@ -53,7 +53,7 @@
 
 <ul><li>セツ</li><li>サイ</li><li>き・る</li><li>き・れる</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 切る | きる | cortar |
 | 売り切れる | うりきれる | esgotamento de produto |
@@ -68,7 +68,7 @@
 
 <ul><li>ベン</li><li>ビン</li><li>たよ・り</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 便 | びん |  |
 | 郵便局 | ゆうびんきょく | agência de correio |
@@ -83,7 +83,7 @@
 
 <ul><li>リ</li><li>き・く</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 左利き | ひだりきき | canhoto |
 | 右利き | みぎきき | destro |
@@ -99,7 +99,7 @@
 
 <ul><li>ジャク</li><li>ニャク</li><li>わか・い</li><li>も・しくは</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 若い | わかい | jovem |
 | 若さ | わかさ | juventude |
@@ -113,7 +113,7 @@
 
 <ul><li>ボウ</li><li>いそが・しい</li></ul>
 
-|  | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 忙しい | いそがしい | ocupado, atarefado |
 | 多忙 | たぼう |  |
