@@ -62,7 +62,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 07/08/2023 | Revisão |  |
 | &check; | 02 | 09/08/2023 | Revisão |  |
-| &check; | [03](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2003.md) | 14/08/2023 | 道・近・遠・速・遅・[青](./Kanji%202/Aula%2003.md#青)・ | 6 |
+| &check; | [03](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2003.md) | 14/08/2023 | 道・近・遠・速・遅・青 | 6 |
 | &check; | [04](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2004.md) | 16/08/2023 | 晴・静・寺・持・荷・歌 | 6 |
 | &check; | [05](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2005.md) | 21/08/2023 | 母・父・兄・弟・姉・妹 | 6 |
 | &check; | [06](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2006.md) | 23/08/2023 | 主・夫・妻・奥・友・彼 | 6 |
@@ -84,8 +84,8 @@
 | &check; | [22](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2022.md) | 18/10/2023 | 答・研・究・練・習・留 | 6 |
 | &check; | [23](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2023.md) | 23/10/2023 | 政・治・理・科・化 | 5 |
 | &check; | [24](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2024.md) | 25/10/2023 | 数・経・済・医・育・歴・史 | 7 |
-| &check; | 25 | 30/10/2023 | 音・楽・白・赤・黒・色 | 6 |
-| &check; | 26 | 01/11/2023 | 写・真・映・画・組・料 | 6 |
+| &check; | [25](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2025.md) | 30/10/2023 | 音・楽・白・赤・黒・色 | 6 |
+| &check; | [26](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2026.md) | 01/11/2023 | 写・真・映・画・組・料 | 6 |
 |  | 27 | 06/11/2023 |  |  |
 |  | 28 | 08/11/2023 |  |  |
 |  | 29 | 13/11/2023 |  |  |
