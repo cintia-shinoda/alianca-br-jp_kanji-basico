@@ -62,7 +62,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 07/08/2023 | Revisão |  |
 | &check; | 02 | 09/08/2023 | Revisão |  |
-| &check; | [03](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2003.md) | 14/08/2023 | 道・近・遠・速・遅・青・ | 6 |
+| &check; | [03](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2003.md) | 14/08/2023 | 道・近・遠・速・遅・[青](./Kanji%202/Aula%2003.md#青)・ | 6 |
 | &check; | [04](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2004.md) | 16/08/2023 | 晴・静・寺・持・荷・歌 | 6 |
 | &check; | [05](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2005.md) | 21/08/2023 | 母・父・兄・弟・姉・妹 | 6 |
 | &check; | [06](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2006.md) | 23/08/2023 | 主・夫・妻・奥・友・彼 | 6 |
