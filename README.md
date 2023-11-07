@@ -86,7 +86,7 @@
 | &check; | [24](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2024.md) | 25/10/2023 | 数・経・済・医・育・歴・史 | 7 |
 | &check; | [25](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2025.md) | 30/10/2023 | 音・楽・白・赤・黒・色 | 6 |
 | &check; | [26](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2026.md) | 01/11/2023 | 写・真・映・画・組・料 | 6 |
-|  | 27 | 06/11/2023 |  |  |
+| &check; | [27](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2027.md) | 06/11/2023 | 思・使・立・座・始 | 5 |
 |  | 28 | 08/11/2023 |  |  |
 |  | 29 | 13/11/2023 |  |  |
 |  | 30 | 20/11/2023 |  |  |
@@ -95,5 +95,5 @@
 |  | 33 | 29/11/2023 |  |  |
 |  | 34 | 04/12/2023 |  | Prova Final |
 |  | 35 | 06/12/2023 |  | Prova Substitutiva |
-|  |  |  | **Média** |  / 100.0
-| **$\sum$** |  |  |  | **119 / 142** |
+| |  |  | **Média**  |  / 100.0
+| **$\sum$** |  |  |  | **124 / 142** |
