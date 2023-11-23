@@ -89,10 +89,10 @@
 | &check; | [27](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2027.md) | 06/11/2023 | 思・使・立・座・始 | 5 |
 | &check; | [28](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2028.md) | 08/11/2023 | 終・起・寝・遊・貸・借・返 | 7 |
 | &check; | 29 | 13/11/2023 | Revisão |  |
-|  | 30 | 22/11/2023 |  |  |
+| &check; | 30 | 22/11/2023 | 和・式・洋・結・婚・離 | 6 |
 |  | 31 | 27/11/2023 |  |  |
 |  | 32 | 29/11/2023 |  |  |
 |  | 33 | 04/12/2023 |  | Prova Final |
 |  | 34 | 06/12/2023 |  | Prova Substitutiva |
 | |  |  | **Média**  |  / 100.0
-| **$\sum$** |  |  |  | **131 / 142** |
+| **$\sum$** |  |  |  | **137 / 142** |
