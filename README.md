@@ -11,7 +11,7 @@
 
 ### ```Cronograma e Listas de Kanjis```
 
-#### ```Kanji 1```
+#### ```Kanji 1``` 
 
 |  | # | Data | Kanjis |  |
 |:---:|:---:|:---:|:---:|:---:|
@@ -47,7 +47,7 @@
 | &check; | 30 | 19/06/2023 | 度・広・店・屋 | 4 |
 | &check; | 31 | 21/06/2023 | 病・痛・疲・国・回・困・開・閉 | 8 |
 | F | 32 | 26/06/2023 | Revisão |  |
-| &check; | 33 | 28/06/2023 | Prova Final |  |
+| &check; | 33 | 28/06/2023 | Prova Final | 65.0 / 100.0 |
 | &check; | 34 | 03/07/2023 | Prova Substitutiva | 75.0 / 100.0 |
 |  |  |  | **Média** | 70.0 / 100.0
 | **$\sum$** |  |  |  | **145 / 145** |
@@ -89,10 +89,10 @@
 | &check; | [27](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2027.md) | 06/11/2023 | 思・使・立・座・始 | 5 |
 | &check; | [28](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2028.md) | 08/11/2023 | 終・起・寝・遊・貸・借・返 | 7 |
 | &check; | 29 | 13/11/2023 | Revisão |  |
-| &check; | 30 | 22/11/2023 | 和・式・洋・結・婚・離 | 6 |
-| &check; | 31 | 27/11/2023 | 予・定・席・欠・活 | 5 |
-|  | 32 | 29/11/2023 | Revisão |  |
-|  | 33 | 04/12/2023 | Prova Final |  |
-|  | 34 | 06/12/2023 | Prova Substitutiva |  |
-| |  |  | **Média**  |  / 100.0
+| &check; | [30](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2030.md) | 22/11/2023 | 和・式・洋・結・婚・離 | 6 |
+| &check; | [31](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2031.md) | 27/11/2023 | 予・定・席・欠・活 | 5 |
+| &check; | 32 | 29/11/2023 | Revisão |  |
+| &check; | 33 | 04/12/2023 | Prova Final | 64.5 / 100.0 |
+| &check; | 34 | 06/12/2023 | Prova Substitutiva | 79 / 100.0 |
+| |  |  | **Média**  | 71.8 / 100.0
 | **$\sum$** |  |  |  | **142 / 142** |
