@@ -1,11 +1,21 @@
 # Aliança Cultural Brasil-Japão - Kanji Básico
 
+<br>
+
+|  | Módulo | Semestre |
+|:---:|:---:|:--------:|
+| &check; | Kanji 1 | 1/2023 |
+| &check; | Kanji 2 | 2/2023 |
+| em andamento | Kanji 3 | 1/2024 |
+
+<br>
+
+---
 
 ### ```Flashcards```
 [Kanji 1](https://quizlet.com/br/792091545/kanji-1-flash-cards/?funnelUUID=b95de232-26d0-418a-b5a2-598bb6b57d9b)
 
 [Kanji 2](https://quizlet.com/br/817726587/kanji-2-flash-cards/?funnelUUID=2679492b-a70b-4d47-9557-e56ef00b7ef8)
-<br>
 
 ---
 
@@ -13,7 +23,7 @@
 
 #### ```Kanji 1``` 
 
-|  | # | Data | Kanjis |  |
+|  | # | Data | Conteúdo |  |
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 27/02/2023 | 日・月・火・水 | 4 |
 | &check; | 02 | 01/03/2023 | 木・金・土・人・子・女・曜 | 7 |
@@ -52,13 +62,13 @@
 |  |  |  | **Média** | 70.0 / 100.0
 | **$\sum$** |  |  |  | **145 / 145** |
 
-<br><br>
+-----
 
 
 
 #### ```Kanji 2```
 
-|  | # | Data | Kanjis |  |
+|  | # | Data | Conteúdo |  |
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 07/08/2023 | Revisão |  |
 | &check; | 02 | 09/08/2023 | Revisão |  |
@@ -96,3 +106,13 @@
 | &check; | 34 | 06/12/2023 | Prova Substitutiva | 79 / 100.0 |
 | |  |  | **Média**  | 71.8 / 100.0
 | **$\sum$** |  |  |  | **142 / 142** |
+
+-----
+
+
+
+#### ```Kanji 3```
+
+|  | # | Data | Conteúdo |  |
+|:---:|:---:|:---:|:---:|:---:|
+|  | 01 | 19/02/2023 |  |  |
