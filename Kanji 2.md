@@ -13,7 +13,7 @@
 | 09 | [問](./Kanji%202.md#問)・[題](./Kanji%202.md#題)・[宿](./Kanji%202.md#宿)・[質](./Kanji%202.md#質)・[勉](./Kanji%202.md#勉)・[強](./Kanji%202.md#強)・[答](./Kanji%202.md#答)・[研](./Kanji%202.md#研)・[究](./Kanji%202.md#究)・[練](./Kanji%202.md#練)・[習](./Kanji%202.md#習)・[留](./Kanji%202.md#留) | 12 |
 | 10 | [政](./Kanji%202.md#政)・[治](./Kanji%202.md#治)・[理](./Kanji%202.md#理)・[科](./Kanji%202.md#科)・[化](./Kanji%202.md#化)・[数](./Kanji%202.md#数)・[経](./Kanji%202.md#経)・[済](./Kanji%202.md#済)・[医](./Kanji%202.md#医)・[育](./Kanji%202.md#育)・[歴](./Kanji%202.md#歴)・[史](./Kanji%202.md#史) | 12 |
 | 11 | [音](./Kanji%202.md#音)・[楽](./Kanji%202.md#楽)・[白](./Kanji%202.md#白)・[赤](./Kanji%202.md#赤)・[黒](./Kanji%202.md#黒)・[色](./Kanji%202.md#色)・[写](./Kanji%202.md#写)・[真](./Kanji%202.md#真)・[映](./Kanji%202.md#映)・[画](./Kanji%202.md#画)・[組](./Kanji%202.md#組)・[料](./Kanji%202.md#料) | 12 |
-| 12 | 思・使・立・座・始・終・起・寝・遊・貸・借・返 | 12 |
+| 12 | [思](./Kanji%202.md#思)・[使](./Kanji%202.md#使)・[立](./Kanji%202.md#立)・[座](./Kanji%202.md#座)・[始](./Kanji%202.md#始)・[終]()・[起]()・[寝]()・[遊]()・[貸]()・[借]()・[返]() | 12 |
 | 13 | 和・式・洋・結・婚・離・予・定・席・欠・活 | 11 |
 | **$\sum$** |   | **142 / 142** |
 
@@ -1802,3 +1802,182 @@
 | 材料 | ざいりょう | ingrediente |
 | 有料 | ゆうりょう | pago (não é grátis) |
 | 無料 | むりょう | grátis / gratuito |
+
+<br>
+
+
+# 思
+- pensar, achar
+
+<ul><li>シ</li><li>おも・う</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 不思議 | ふしぎ |  |
+| 思う | おもう |  |
+| 思い出 | おもいで |  |
+| 思い出す | おもいだす |  |
+
+<br>
+
+
+# 使
+<ul><li>emissário</li><li>usar</li></ul>
+
+<ul><liシ</li><li>つか・う</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 使用 | しよう |  |
+| 使う | つかう |  |
+| 使い方 | つかいかた |  |
+| 大使 | たいし |  |
+
+<br>
+
+
+# 立
+<ul><li>ficar em pé</li><li>estabelecer (leis)</li><li>fundar</li></ul>
+
+<ul><li>リツ</li><li>た・つ</li><li>た・てる</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 立つ | たつ |  |
+| 立てる | たてる |  |
+| 設立 | せつりつ |  |
+| 国立 | こくりつ |  |
+| 市立 | しりつ |  |
+
+<br>
+
+
+# 座
+- sentar-se
+
+<ul><li>ザ</li><li>すわ・る</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 座る | すわる |  |
+| 正座 | せいざ |  |
+| 座席 | ざせき |  |
+| 口座 | こうざ |  |
+| 講座 | こうざ |  |
+
+<br>
+
+
+# 始
+- iniciar, começar
+
+<ul><li>シ</li><li>はじ・める</li><li>はじ・まる</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 開始 | かいし |  |
+| 始発 | しはつ |  |
+| 始める | はじめる |  |
+| 始まる | はじまる |  |
+
+<br>
+
+
+# 終
+- terminar, acabar
+
+<ul><li>シュウ</li><li>お・える</li><li>お・わる</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 終わる | おわる |  |
+| 終点 | しゅうてん |  |
+| 終電 | しゅうでん |  |
+
+<br>
+
+
+# 起
+<ul><li>levantar, ficar em pé</li><li>acordar outra pessoa</li><li>ocorrer, acontecer</li></ul>
+
+<ul><li>キ</li><li>お・きる</li><li>お・こす</li><li>お・こる</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 起きる | おきる |  |
+| 起こす | おこす |  |
+| 起こる | おこる |  |
+| 起動 | きどう |  |
+| 再起動 | さいきどう |  |
+
+<br>
+
+
+# 寝
+- dormir, ir deitar
+
+<ul><li>シン</li><li>ね・る</li><li>ね・かす</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 寝る | ねる |  |
+| 寝かせる | ねかせる |  |
+| 寝坊 | ねぼう |  |
+| 寝室 | しんしつ |  |
+
+<br>
+
+
+# 遊
+- brincar, divertir-se
+
+<ul><li>ユ</li><li>ユウ</li><li>あそ・ぶ</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 遊ぶ | あそぶ |  |
+| 遊び場 | あそびば |  |
+| 遊園地 | ゆうえんち |  |
+
+<br>
+
+
+# 貸
+- emprestar
+
+<ul><li>タイ</li><li>か・す</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 賃貸 | ちんたい |  |
+| 貸す | かす |  |
+| 貸し出し | かしだし |  |
+| 貸し切る | かしきる |  |
+
+<br>
+
+
+# 借
+- pedir emprestado
+
+<ul><li>シャク</li><li>か・りる</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 借りる | かりる |  |
+| 借金 | しゃっきん |  |
+
+<br>
+
+
+# 返
+- devolver
+
+<ul><li>ヘン</li><li>かえ・す</li><li>かえ・る</li></ul>
+
+| kanji | hiragana | tradução |
+|:---:|:---:|:---:|
+| 返す | かえす |  |
+| 返済 | へんさい |  |
+| 返信 | へんしん |  |
+| 返事 | へんじ |  |
