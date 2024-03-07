@@ -5,7 +5,7 @@
 |  | Módulo | Semestre | $\sum$ | Média |
 |:---:|:---:|:--------:|:---:|:---:|
 | &check; | [Kanji 1](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%201) | 1/2023 | 145 | 70.0 / 100.0 |
-| &check; | [Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%202) | 2/2023 | 142 | 71.8 / 100 |
+| &check; | [Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%202) | 2/2023 | 142 | 71.8 / 100.0 |
 | em andamento | Kanji 3 | 1/2024 | 112 |
 
 <br>
@@ -31,7 +31,7 @@
 | &check; | 03 | 26/02/2024 | Revisão |  |
 | &check; | 04 | 28/02/2024 | 天・春・夏・秋・冬・暖 | 6 |
 | &check; | 05 | 04/03/2024 | K3-02-extra + 温 | 1 |
-|  | 06 |  |  |  |
+| &check; | 06 | 06/03/2024 | 暑・熱・涼・寒・冷 | 5 |
 |  | 07 |  |  |  |
 |  | 08 |  |  |  |
 |  | 09 |  |  |  |
@@ -61,4 +61,4 @@
 |  | 33 | 12/06/2024 | Prova 2 |  |
 |  | 34 | 17/06/2024 | Prova Sub |  |
 | |  |  | **Média**  |  |
-| **$\sum$** |  |  |  | **7 / 112** |
+| **$\sum$** |  |  |  | **12 / 112** |

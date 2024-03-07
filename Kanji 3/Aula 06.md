@@ -1,16 +1,13 @@
-#### Aula 04 - 28/02/2024
+#### Aula 06 - 06/03/2024
 
 
-# 天
+# 暑
 <ul><li></li><li></li></ul>
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -18,15 +15,13 @@
 <br>
 
 
-# 春
+# 熱
 <ul><li></li><li></li></ul>
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -34,15 +29,13 @@
 <br>
 
 
-# 夏
+# 涼
 <ul><li></li><li></li></ul>
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -50,15 +43,13 @@
 <br>
 
 
-# 秋
+# 寒
 <ul><li></li><li></li></ul>
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -66,31 +57,13 @@
 <br>
 
 
-# 冬
+# 冷
 <ul><li></li><li></li></ul>
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-<br>
-
-
-# 暖
-<ul><li></li><li></li></ul>
-
-<ul><li></li><li></li></ul>
-
-| kanji | hiragana | tradução |
-|:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
