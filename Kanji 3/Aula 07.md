@@ -2,7 +2,7 @@
 
 
 # 者
-<ul><li></li><li></li></ul>
+- pessoa, indivíduo
 
 <ul><li></li><li></li></ul>
 
@@ -16,7 +16,7 @@
 
 
 # 仕
-<ul><li></li><li></li></ul>
+- servir, prestar serviços
 
 <ul><li></li><li></li></ul>
 
@@ -30,7 +30,7 @@
 
 
 # 事
-<ul><li></li><li></li></ul>
+<ul><li>fato, ocorrência</li><li>coisa abstrata</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -44,7 +44,7 @@
 
 
 # 記
-<ul><li></li><li></li></ul>
+- anotar, registrar
 
 <ul><li></li><li></li></ul>
 

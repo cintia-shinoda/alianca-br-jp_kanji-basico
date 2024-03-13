@@ -2,7 +2,7 @@
 
 
 # 暑
-<ul><li></li><li></li></ul>
+<ul><li>calor de verão</li><li>quente (temperatura ambiente alta)</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -16,7 +16,7 @@
 
 
 # 熱
-<ul><li></li><li></li></ul>
+<ul><li>calor, febre</li><li>quente (líquido, sólido, sentimento)</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -30,7 +30,7 @@
 
 
 # 涼
-<ul><li></li><li></li></ul>
+- fresco, ameno
 
 <ul><li></li><li></li></ul>
 
@@ -44,7 +44,7 @@
 
 
 # 寒
-<ul><li></li><li></li></ul>
+- frio
 
 <ul><li></li><li></li></ul>
 
@@ -58,7 +58,7 @@
 
 
 # 冷
-<ul><li></li><li></li></ul>
+- frio, gelado
 
 <ul><li></li><li></li></ul>
 
