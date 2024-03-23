@@ -2,23 +2,25 @@
 
 
 # 次
-<ul><li></li><li></li></ul>
+- seguinte, subsequente
 
-<ul><li></li><li></li></ul>
+<ul><li>ジ</li><li>シ</li><li>つ・ぐ</li><li>つぎ</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 次 | つぎ |  |
+| 相次ぐ | あいつぐ |  |
+| 目次 | もくじ |  |
+| 次回 | じかい |  |
+| 次第 | しだい |  |
 
 <br>
 
 
 # 形
-<ul><li></li><li></li></ul>
+- forma
 
-<ul><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -30,12 +32,13 @@
 
 
 # 良
-<ul><li></li><li></li></ul>
+- bom
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -44,12 +47,14 @@
 
 
 # 悪
-<ul><li></li><li></li></ul>
+- ruim, mau
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -58,7 +63,7 @@
 
 
 # 味
-<ul><li></li><li></li></ul>
+- sabor
 
 <ul><li></li><li></li></ul>
 
@@ -67,12 +72,15 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 <br>
 
 
 # 難
-<ul><li></li><li></li></ul>
+<ul><li>difícil</li><li>desastre, acidente</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -86,7 +94,7 @@
 
 
 # 違
-<ul><li></li><li></li></ul>
+<ul><li>diferir</li><li>infringir</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -100,12 +108,13 @@
 
 
 # 適
-<ul><li></li><li></li></ul>
+- adequado
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
