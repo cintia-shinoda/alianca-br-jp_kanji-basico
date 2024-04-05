@@ -1,8 +1,8 @@
 #### Aula 14 - 03/04/2024
 
 
-# 
-<ul><li></li><li></li><li></li><li></li></ul>
+# 受
+<ul><li>receber</li><li>ser aprovado</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -17,8 +17,8 @@
 <br>
 
 
-# 
-<ul><li></li><li></li><li></li><li></li></ul>
+# 果
+<ul><li>fruta</li><li>resultado</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -33,8 +33,8 @@
 <br>
 
 
-# 
-<ul><li></li><li></li><li></li><li></li></ul>
+# 格
+<ul><li>qualificação, norma</li><li>estrutura, status</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -49,8 +49,8 @@
 <br>
 
 
-# 
-<ul><li></li><li></li><li></li><li></li></ul>
+# 落
+- cair
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -65,8 +65,8 @@
 <br>
 
 
-# 
-<ul><li></li><li></li><li></li><li></li></ul>
+# 残
+<ul><li>restar</li><li>crueldade</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -81,8 +81,8 @@
 <br>
 
 
-# 
-<ul><li></li><li></li><li></li><li></li></ul>
+# 念
+<ul><li>o cuidado, a precaução, a atenção</li><li>o sentimento</li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
@@ -93,5 +93,3 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
-
-<br>
