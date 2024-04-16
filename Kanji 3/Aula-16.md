@@ -2,15 +2,15 @@
 
 
 # 決
-<ul><li></li><li></li></ul>
+<ul><li>decidir</li><li>ter sucesso, marcar um ponto</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 決定 | けってい |  |
+| 決める | きめる |  |
+| 決して | けっして |  |
 |  |  |  |
 |  |  |  |
 
@@ -18,31 +18,31 @@
 
 
 # 流
-<ul><li></li><li></li></ul>
+<ul><li>escoar, fluir</li><li>fluxo, corrente</li><li>estilo, tendência</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 交流 | こうりゅう |  |
+| 流行 | りゅうこう |  |
+| 流れる | ながれる |  |
+| 流す | ながす |  |
 |  |  |  |
 
 <br>
 
 
 # 深
-<ul><li></li><li></li></ul>
+<ul><li>profundo</li><li>aprofundar</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 深い | ふかい |  |
+| 深夜 | しんや |  |
+| 深刻な・に | しんこくな・に |  |
 |  |  |  |
 |  |  |  |
 
@@ -50,13 +50,17 @@
 
 
 # 消
-<ul><li></li><li></li></ul>
+<ul><li>apagar, dissipar-se</li><li>consumir</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
+| 消す | けす |  |
+| 消える | きえる |  |
+| 消防 | しょうぼう |  |
+| 消化 | しょうか |  |
+| 消費 | しょうひ |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -66,14 +70,14 @@
 
 
 # 洗
-<ul><li></li><li></li></ul>
+- lavar
 
 <ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 洗う | あらう |  |
+| お手洗い | てあらい |  |
+| 洗面所 | せんめんじょ |  |
+| 洗濯機 | せんたくき |  |
 |  |  |  |
