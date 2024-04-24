@@ -4,7 +4,7 @@
 # 合
 - unir, combinar
 
-<ul><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+<ul><li>ゴウ</li><li>ガツ</li><li>あ・う</li><li>あ・わす</li><li>あ・わせる</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -14,7 +14,7 @@
 | 見合い | みあい |  |
 | 間に合う | まにあう |  |
 | 問い合わせ | といあわせ |  |
-|  |  |  |
+| 都合 | つごう |  |
 |  |  |  |
 |  |  |  |
 
@@ -49,7 +49,7 @@
 | 試食 | ししょく |  |
 | 試着 | しちゃく |  |
 | 試す | ためす |  |
-|  |  |  |
+| 試乗会 | しじょうかい |  |
 |  |  |  |
 
 <br>
@@ -58,7 +58,7 @@
 # 験
 - testar
 
-<ul><li></li><li></li></ul>
+- ケン
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -73,7 +73,7 @@
 # 面
 - face
 
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li>メン</li><li>おも</li><li>おもて</li><li>つら</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -88,7 +88,7 @@
 # 接
 <ul><li>entrar em contato com, tocar</li><li>ligar(-se) a, conectar-se</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>セツ</li><li>つ・ぐ</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -97,3 +97,5 @@
 | 間接 | かんせつ |  |
 | 接近 | せっきん |  |
 | 接続 | せつぞく |  |
+|  |  |  |
+|  |  |  |

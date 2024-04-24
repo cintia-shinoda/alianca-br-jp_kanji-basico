@@ -4,7 +4,7 @@
 # 受
 <ul><li>receber</li><li>ser aprovado</li></ul>
 
-<ul><li></li><li></li><li></li></ul>
+<ul><li>ジュ</li><li>う・ける</li><li>う・かる</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -26,9 +26,9 @@
 | 結果 | けっか |  |
 | 果たす | はたす |  |
 | 果物 | くだもの |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 果実 | かじつ |  |
+| 果肉 | かにく |  |
+| 果汁 | かじゅう |  |
 |  |  |  |
 
 <br>
@@ -52,7 +52,7 @@
 # 落
 - cair
 
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li>ラク</li><li>お・ちる</li><li>お・とす</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -62,7 +62,7 @@
 | 落ちる | おちる |  |
 | 落ち込む | おちこむ |  |
 | 落ち着く | おちつく |  |
-|  |  |  |
+| 落とし物 | おとしもの | objeto perdido |
 
 <br>
 
@@ -70,15 +70,15 @@
 # 残
 <ul><li>restar</li><li>crueldade</li></ul>
 
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li>ザン</li><li>のこ・る</li><li>のこ・す</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 残業 | ざんぎょう |  |
 | 残る | のこる |  |
 | 残す | のこす |  |
-|  |  |  |
-|  |  |  |
+| 残高 | ざんだか | saldo bancário |
+| 残酷さ | ざんこくさ | crueldade |
 
 <br>
 
@@ -86,7 +86,7 @@
 # 念
 <ul><li>o cuidado, a precaução, a atenção</li><li>o sentimento</li></ul>
 
-<ul><li></li><li></li><li></li><li></li></ul>
+- ネン
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
