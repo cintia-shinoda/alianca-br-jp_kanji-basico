@@ -8,13 +8,13 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 温かい | あたたかい |  |
-| 温室 | おんしつ |  |
-| 温度 | おんど |  |
-| 温泉 | おんせん |  |
-| 気温 | きおん |  |
-| 温暖化 | おんだんか |  |
-|  |  |  |
-|  |  |  |
+| 温かい | あたたかい | quente (agradável), caloroso |
+| 温室 | おんしつ | estufa |
+| 温度 | おんど | temperatura |
+| 温泉 | おんせん | termas |
+| 気温 | きおん | temperatura atmosférica |
+| 温暖化 | おんだんか | aquecimento global |
+| 体温計 | たいおんけい | termômetro clínico |
+| 温度計 | おんどけい | termômetro |
 |  |  |  |
 |  |  |  |

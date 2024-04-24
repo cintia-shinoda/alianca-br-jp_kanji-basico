@@ -8,12 +8,11 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 雨天 | うてん |  |
-| 天気 | てんき |  |
-| 天の川 | あまのがわ |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 雨天 | うてん | tempo chuvoso |
+| 天気 | てんき | clima, condição meteorológica |
+| 天の川 | あまのがわ | Via Láctea |
+| 晴天 | せいてん | tempo bom |
+| 天国 | てんごく | o céu, o paraíso |
 
 <br>
 
@@ -25,10 +24,10 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 春 | はる |  |
-| 春分 | しゅんぶん |  |
-| 思春期 | ししゅんき |  |
-|  |  |  |
+| 春 | はる | primavera |
+| 春分 | しゅんぶん | equinócio de primavera |
+| 思春期 | ししゅんき | puberdade |
+| 青春 | せいしゅん | a juventude |
 
 <br>
 
@@ -40,13 +39,16 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 夏 | なつ |  |
-| 夏休み | なつやすみ |  |
-| 真夏 | まなつ |  |
-| 夏季 | かき |  |
-| 夏期 | かき |  |
-|  |  |  |
+| 夏 | なつ | verão |
+| 夏休み | なつやすみ | férias de verão |
+| 真夏 | まなつ | auge do verão |
+| 夏季 | かき | temporada de verão |
+| 夏期 | かき | período de verão |
+| 夏至 | げし | solstício de verão |
+| 夏季オリンピック | かきオリンピック | Jogos Olímpicos de Verão |
 
+- 冬至 (とうじ) - solstício de inverno
+- 冬季オリンピック (とうきオリンピック) - Jogos Olímpicos de Inverno
 <br>
 
 
@@ -57,9 +59,9 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 秋 | あき |  |
-| 秋晴れ | あきばれ |  |
-| 秋分 | しゅうぶん |  |
+| 秋 | あき | outono |
+| 秋晴れ | あきばれ | tempo bom (de outono) |
+| 秋分 | しゅうぶん | equinócio de outono |
 |  |  |  |
 
 <br>
@@ -72,11 +74,12 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 冬 | ふゆ |  |
-| 冬休み | ふゆやすみ |  |
-| 真冬 | まふゆ |  |
-| 冬季 | とうき |  |
-|  |  |  |
+| 冬 | ふゆ | inverno |
+| 冬休み | ふゆやすみ | férias de inverno |
+| 真冬 | まふゆ | auge do inverno |
+| 冬季 | とうき | período de inverno |
+| 冬至 | とうじ | solstício de inverno |
+| 冬季オリンピック | とうきオリンピック | Jogos Olímpicos de Inverno |
 
 <br>
 
@@ -88,8 +91,9 @@
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
-| 暖かい | あたたかい |  |
-| 暖房 | だんぼう |  |
-| 暖色 | だんしょく |  |
-| 暖冬 | だんとう |  |
+| 暖かい | あたたかい | quente (agradável) |
+| 暖房 | だんぼう | aquecedor / aquecimento |
+| 暖色 | だんしょく | cor quente |
+| 暖冬 | だんとう | inverno ameno |
+|  |  |  |
 |  |  |  |
