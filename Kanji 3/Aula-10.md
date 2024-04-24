@@ -20,7 +20,7 @@
 # 形
 - forma
 
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li>ケイ</li><li>ギョウ</li><li>かた</li><li>かたち</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -34,7 +34,7 @@
 # 良
 - bom
 
-<ul><li></li><li></li></ul>
+<ul><li>リョウ</li><li>よ・い</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -49,7 +49,7 @@
 # 悪
 - ruim, mau
 
-<ul><li></li><li></li></ul>
+<ul><li>アク</li><li>オ</li><li>わる・い</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -65,7 +65,7 @@
 # 味
 - sabor
 
-<ul><li></li><li></li></ul>
+<ul><li>ミ</li><li>あじ</li><li>あじ・わう</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
@@ -82,13 +82,14 @@
 # 難
 <ul><li>difícil</li><li>desastre, acidente</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>ナン</li><li>かた・い</li><li>むずか・しい</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 難しい | むずかしい |  |
 | 困難 | こんなん |  |
 | 避難 | ひなん |  |
+|  |  |  |
 
 <br>
 
@@ -96,7 +97,7 @@
 # 違
 <ul><li>diferir</li><li>infringir</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>イ</li><li>ちが・う</li><li>ちが・える</li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
