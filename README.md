@@ -6,7 +6,7 @@
 |:---:|:---:|:--------:|:---:|:---:|
 | &check; | [Kanji 1](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%201) | 1/2023 | 145 | 70.0 / 100.0 |
 | &check; | [Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%202) | 2/2023 | 142 | 71.8 / 100.0 |
-| em andamento | Kanji 3 | 1/2024 | 112 |
+| em andamento | [Kanji 3]((https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%203)) | 1/2024 | 112 |
 
 <br>
 
@@ -41,11 +41,11 @@
 | &check; | 13 | 01/04/2024 | 合・説・試・験・面・接 | 6 |
 | &check; | 14 | 03/04/2024 | 受・果・格・落・残・念 | 6 |
 | &check; | 15 | 08/04/2024 | 指・打・投・払・折 | 5 |
-| &check; | 16 | 10/04/2024 | 決・流・深・消・・洗 | 5 |
+| &check; | 16 | 10/04/2024 | 決・流・深・消・洗 | 5 |
 | &check; | 17 | 15/04/2024 | しゅくだい　６ + ふくしゅう | - |
 | &check; | 18 | 17/04/2024 | ふくしゅう + Ditado (antônimos) | - |
 | &check; | 19 | 22/04/2024 | ふくしゅう | - |
-|  | 20 | 24/04/2024 | Prova 1 |  |
+| &check; | 20 | 24/04/2024 | Prova 1 |  |
 |  | 21 |  |  |  |
 |  | 22 |  |  |  |
 |  | 23 |  |  |  |
@@ -61,4 +61,4 @@
 |  | 33 | 12/06/2024 | Prova 2 |  |
 |  | 34 | 17/06/2024 | Prova Sub |  |
 | |  |  | **Média**  |  |
-| **$\sum$** |  |  |  | **53 / 112** |
+| **$\sum$** |  |  |  | **58 / 112** |
