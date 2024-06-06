@@ -2,11 +2,12 @@
 
 <br>
 
-|  | Módulo | Semestre | $\sum$ | Média |
+|  | Módulo | Semestre | Quantidade de kanjis | Média |
 |:---:|:---:|:--------:|:---:|:---:|
 | &check; | [Kanji 1](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%201) | 1/2023 | 145 | 70.0 / 100.0 |
 | &check; | [Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%202) | 2/2023 | 142 | 71.8 / 100.0 |
 | em andamento | [Kanji 3]((https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%203)) | 1/2024 | 112 |
+| **$\sum$** |  |  | 399 / 500 |  |
 
 <br>
 
@@ -23,12 +24,17 @@
 
 ---
 
-<!-- ### ```Listas```
+### ```Listas```
 
+[Kanji 1](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Lista-Kanji-1.md)
+
+[Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Lista-Kanji-2.md)
+
+[Kanji 3](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Lista-Kanji-3.md)
 
 <br>
 
---- -->
+---
 
 ### ```Cronogramas```
 
@@ -76,7 +82,6 @@
 
 </details>
 
-<br>
 
 <details>
 <summary>Kanji 2</summary>
@@ -121,8 +126,6 @@
 | **$\sum$** |  |  |  | **142 / 142** |
 
 </details>
-
-<br>
 
 
 #### Kanji 3
