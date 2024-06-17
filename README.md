@@ -105,7 +105,7 @@
 | &check; | 15 | 25/09/2023 | Revisão |  |
 | &check; | 16 | 27/09/2023 | Revisão |  |
 | F | 17 | 02/10/2023 | Revisão |  |
-| F | 18 | 04/10/2023 | Prova |  |
+| F | 18 | 04/10/2023 | Prova | - |
 | &check; | [19](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2019.md) | 09/10/2023 | 京・都・府・県・区・市 | 6 |
 | &check; | [20](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2020.md) | 11/10/2023 | 町・村・島・様・送 | 5 |
 | &check; | [21](https://github.com/cintia-shinoda/alianca-kanji_basico/blob/master/Kanji%202/Aula%2021.md) | 16/10/2023 | 問・題・宿・質・勉・強 | 6 |
@@ -151,7 +151,7 @@
 | &check; | 17 | 15/04/2024 | しゅくだい　６ + ふくしゅう | - |
 | &check; | 18 | 17/04/2024 | ふくしゅう + Ditado (antônimos) | - |
 | &check; | 19 | 22/04/2024 | ふくしゅう | - |
-| &check; | 20 | 24/04/2024 | Prova 1 |  |
+| &check; | 20 | 24/04/2024 | Prova 1 | 59.0 / 100.0 |
 | &check; | 21 | 29/04/2024 | 約・特・急・旅・相・談 | 6 |
 | &check; | 22 | 06/05/2024 | 案・準・備 | 3 |
 | &check; | 23 | 08/05/2024 | 連・絡・泊 | 3 |
@@ -162,9 +162,9 @@
 | &check; | 28 | 27/05/2024 | 用・台・紙・器・服 | 5 |
 | &check; | 29 | 29/05/2024 | 具・辞・雑・誌・窓 | 5 |
 | &check; | 30 | 03/06/2024 | 品・産・期・報・告 | 5 |
-| &check; | 31 | 05/06/2024 | 価・個・銀・資・々 |  |
+| &check; | 31 | 05/06/2024 | 価・個・銀・資・々 | 5 |
 | &check; | 32 | 10/06/2024 | Revisão | - |
-|  | 33 | 12/06/2024 | Prova 2 |  |
+| F | 33 | 12/06/2024 | Prova 2 | - |
 |  | 34 | 17/06/2024 | Prova Sub |  |
 | |  |  | **Média**  |  |
 | **$\sum$** |  |  |  | **112 / 112** |
