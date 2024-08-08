@@ -7,7 +7,7 @@
 | &check; | [Kanji 1](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%201) | 1/2023 | 145 | 70.0 / 100.0 |
 | &check; | [Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%202) | 2/2023 | 142 | 71.8 / 100.0 |
 | &check; | [Kanji 3](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%203) | 1/2024 | 112 | 60.8 / 100.0 |
-|  | [Kanji 4](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%204) | 2/2024 | 101 |  |
+| in progress | [Kanji 4](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%204) | 2/2024 | 101 |  |
 | **$\sum$** |  |  | 399 / 500 |  |
 
 <br>
@@ -20,6 +20,8 @@
 [Kanji 2](https://quizlet.com/br/817726587/kanji-2-flash-cards/)
 
 [Kanji 3](https://quizlet.com/br/888266597/kanji-3-flash-cards/)
+
+[Kanji 4](https://quizlet.com/br/931943533/kanji-4-flash-cards/)
 
 <br>
 
@@ -182,8 +184,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | &check; | 01 | 29/07/2024 | 復習 | - |
 | &check; | 02 | 31/07/2024 | 復習 | - |
-| &check; | 03 | 05/08/2024 |  |  |
-|  | 04 | 07/08/2024 |  |  |
+| &check; | 03 | 05/08/2024 | 空・港・飛・建・設・階 | 6 |
+| &check; | 04 | 07/08/2024 | 橋・完・成・費 | 4 |
 |  | 05 | 12/08/2024 |  |  |
 |  | 06 | 14/08/2024 |  |  |
 |  | 07 | 19/08/2024 |  |  |
