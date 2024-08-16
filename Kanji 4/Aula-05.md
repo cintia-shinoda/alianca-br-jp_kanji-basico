@@ -2,12 +2,15 @@
 
 
 # 代
-<ul><li></li><li></li><li></li></ul>
+<ul><li>substituir</li><li>geração</li><li>tarifa, taxa</li></ul>
 
-<ul><li></li><li></li><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -16,12 +19,14 @@
 
 
 # 集
-<ul><li></li><li></li><li></li></ul>
+- reunir(-se), agrupar(-se)
 
-<ul><li></li><li></li><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -30,12 +35,14 @@
 
 
 # 別
-<ul><li></li><li></li><li></li></ul>
+<ul><li>separar, discriminar</li><li>outro, distinto, diferente</li></ul>
 
-<ul><li></li><li></li><li></li><li></li><li></li></ul>
+<ul><li></li><li></li></ul>
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---:|
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
