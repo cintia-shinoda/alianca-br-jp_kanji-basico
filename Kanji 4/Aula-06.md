@@ -1,7 +1,7 @@
 #### Aula 06 - 14/08/2024
 
 
-# 
+# 伝
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
@@ -15,7 +15,7 @@
 <br>
 
 
-# 
+# 呼
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
@@ -29,7 +29,7 @@
 <br>
 
 
-# 
+# 喜
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
@@ -43,7 +43,7 @@
 <br>
 
 
-# 
+# 並
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
@@ -57,7 +57,7 @@
 <br>
 
 
-# 
+# 曲
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
@@ -71,7 +71,7 @@
 <br>
 
 
-# 
+# 脱
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
@@ -85,7 +85,7 @@
 <br>
 
 
-# 
+# 焼
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
