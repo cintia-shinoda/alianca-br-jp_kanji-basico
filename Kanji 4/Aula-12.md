@@ -2,7 +2,7 @@
 
 
 # 弱
-<ul><li></li><li></li></ul>
+- fraco, frágil
 
 <ul><li></li><li></li></ul>
 
@@ -18,7 +18,7 @@
 
 
 # 苦
-<ul><li></li><li></li></ul>
+<ul><li>sofrido, árduo</li><li>amargo</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -34,7 +34,7 @@
 
 
 # 眠
-<ul><li></li><li></li></ul>
+- dormir, adormecer
 
 <ul><li></li><li></li></ul>
 
@@ -50,7 +50,7 @@
 
 
 # 狭
-<ul><li></li><li></li></ul>
+<ul><li>estreito</li><li>restrito, limitado</li></ul>
 
 <ul><li></li><li></li></ul>
 
@@ -66,7 +66,7 @@
 
 
 # 簡
-<ul><li></li><li></li></ul>
+- simples
 
 <ul><li></li><li></li></ul>
 
@@ -82,7 +82,7 @@
 
 
 # 単
-<ul><li></li><li></li></ul>
+<ul><li>unidade de medida, um</li><li>um, singular</li></ul>
 
 <ul><li></li><li></li></ul>
 
