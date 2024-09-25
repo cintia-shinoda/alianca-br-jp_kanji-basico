@@ -2,11 +2,12 @@
 
 
 # 平
+
 <ul><li>plano, uniforme</li><li>tranquilidade, calma</li></ul>
 
 <ul><li>ヘイ</li><li>ビョウ</li><li>たい・ら</li><li>ひら</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | ```平```らな | ```たい```らな |  |
 | ```平```和 | ```へい```わ |  |
@@ -19,15 +20,16 @@
 | ```平```方メートル | ```へい```ほうメートル | metros quadrados |
 | 平等 | ```びょう```どう |  |
 
-<br>
+<br><br>
 
 
 # 野
+
 <ul><li>campo não cultivado</li><li>selvagem</li></ul>
 
 <ul><li>ヤ</li><li>の</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 上```野``` | うえ```の``` |  |
 | ```野```球 | ```や```きゅう |  |
@@ -36,15 +38,16 @@
 | ```野```生 | ```や```せい | selvagem |
 | 平```野``` | へい```や``` | planície |
 
-<br>
+<br><br>
 
 
 # 原
+
 <ul><li>planície</li><li>original, primário</li></ul>
 
 <ul><li>ゲン</li><li>はら</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 野```原``` | の```はら``` |  |
 | ```原```宿 | ```はら```じゅく |  |
@@ -54,15 +57,16 @@
 | ```原```子力 | ```げん```しりょく | energia atômica |
 | ```原```子力　発電所 | ```げん```しりょく　はつでんしょ | usina nuclear |
 
-<br>
+<br><br>
 
 
 # 風
+
 <ul><li>vento</li><li>estilo, costume</li></ul>
 
 <ul><li>フウ</li><li>フ</li><li>かぜ</li><li>かざ</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 風 | かぜ |  |
 | 和```風``` | わ```ふう``` |  |
@@ -72,15 +76,16 @@
 | ```風```習 | ```ふう```しゅう |  |
 | ```風```向き | ```かざ```むき | direção do vento |s
 
-<br>
+<br><br>
 
 
 # 向
+
 <ul><li>voltar-se em direção a</li><li>rumar, ir em direção a</li></ul>
 
 <ul><li>コウ</li><li>む・く</li><li>む・ける</li><li>む・かう</li><li>む・こう</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | ```向```かう | ```む```かう |  |
 | ```向```こう | ```む```こう |  |
@@ -89,15 +94,16 @@
 | ```向```く | ```む```く | voltar-se para, virar para |
 | ```向```ける | ```む```ける | voltar algo em direção a, voltado a |
 
-<br>
+<br><br>
 
 
 # 以
+
 - (ponto de referência)
 
 - イ
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | ```以```上 | ```い```じょう |  |
 | ```以```下 | ```い```か |  |

@@ -2,11 +2,12 @@
 
 
 # 覚
+
 <ul><li></li><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li><li></li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
@@ -14,44 +15,47 @@
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 忘
+
 - 
 
 <ul><li></li><li></li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 考
+
 - 
 
 <ul><li></li><li></li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 老
+
 <ul><li></li><li></li></ul>
 
 <ul><li></li><li></li><li></li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |

@@ -2,11 +2,12 @@
 
 
 # 空
+
 <ul><li>céu</li><li>ar</li><li>vazio</li></ul>
 
 <ul><li>クウ</li><li>そら</li><li>あ・く</li><li>あ・ける</li><li>から</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | ```空```気 | ```くう```き |  |
 | ```空``` | ```そら``` |  |
@@ -19,15 +20,16 @@
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 港
+
 - porto
 
 <ul><li>コウ</li><li>みなと</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 港 | みなと |  |
 | 港町 | みなとまち |  |
@@ -37,15 +39,16 @@
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 飛
+
 - voar
 
 <ul><li>ヒ</li><li>と・ぶ</li><li>と・ばす</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 飛ぶ | とぶ |  |
 | 飛行機 | ひこうき |  |
@@ -53,15 +56,16 @@
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 建
+
 - construir
 
 <ul><li>ケン</li><li>コン</li><li>た・てる</li><li>た・つ</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 建てる | たてる |  |
 | 〜階建て | 〜かいだて |  |
@@ -69,15 +73,16 @@
 | 建設 | けんせつ |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 設
+
 - instalar, estabelecer
 
 <ul><li>セツ</li><li>もう・ける</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 設ける | こうける |  |
 | 設計 | せっけい |  |
@@ -85,22 +90,23 @@
 | 設備 | せつび |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 階
+
 <ul><li>pavimento, andar</li><li>classe, categoria</li><li>estágio, etapa</li></ul>
 
 - カイ
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 〜階 | 〜かい |  |
 | 階段 | かいだん |  |
 | 階級 | かいきゅう |  |
 | 段階 | だんかい |  |
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
