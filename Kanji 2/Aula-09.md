@@ -2,11 +2,12 @@
 
 
 # 言
+
 - dizer
 
 <ul><li>ゲン</li><li>ゴン</li><li>い・う</li><li>こと</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 言う | いう | dizer |
 | 方言 | ほうげん |  |
@@ -14,15 +15,16 @@
 | 言語 | げんご |  |
 | 言葉 | ことば |  |
 
-<br>
+<br><br>
 
 
 # 通
+
 <ul><li>passar em frente, passar por</li><li>frequentar</li></ul>
 
 <ul><li>ツウ</li><li>ツ</li><li>とお・る</li><li>とお・す</li><li>とお・す</li><li>かよ・う</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 通 | とおる |  |
 | 通う | かよう |  |
@@ -32,15 +34,16 @@
 | 交通 | こうつう |  |
 | 一方通行 | いっぽうつうこう |  |
 
-<br>
+<br><br>
 
 
 # 着
+
 <ul><li>vestir</li><li>chegar</li><li>aderir</li></ul>
 
 <ul><li>チャク</li><li>き・る</li><li>き・せる</li><li>つ・く</li><li>つ・ける</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 着る | きる | vestir |
 | 着く | つく |  |
@@ -50,15 +53,16 @@
 | 古着 | ふるぎ |  |
 | 到着 | とうちゃく |  |
 
-<br>
+<br><br>
 
 
 # 止
+
 - parar
 
 <ul><li>シ</li><li>と・まる</li><li>と・める</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 止まる | とまる | parar |
 | 止める | とめる |  |
