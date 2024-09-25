@@ -2,17 +2,18 @@
 
 
 # 木
+
 - árvore
 
 <ul><li>ボク</li><li>モク</li><li>き</li><li>こ</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 木 | き | árvore |
 | ```木```曜日 | ```もく```ようび | quinta-feira |
 | ```木```村さん / ```木```下っさん | ```き```むらさん / ```き```のしたさん | Kimura-san / Kinoshita-san |
 
-<br>
+<br><br>
 
 
 # 金
@@ -21,7 +22,7 @@
 
 <ul><li>キン</li><li>コン</li><li>かね</li><li>かな</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | お```金``` | お```かね``` | dinheiro |
 | 金 | きん | ouro |
@@ -33,56 +34,60 @@
 
 
 # 土
+
 <ul><li>terra</li><li>solo</li></ul>
 
 <ul><li>ド</li><li>ト</li><li>つち</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | **土** | **つち** | terra, solo |
 | **土**地 | **と**ち | terreno |
 | **土**曜日 | **ど**ようび | sábado |
 | **土**木工学 | **ど**ぼくこうがく | Engenharia Civil |
 
-<br>
+<br><br>
 
 
 # 人
+
 - pessoa
 
 <ul><li>ジン</li><li>ニン</li><li>ひと</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 人 | **ひと** | pessoa |
 | ブラジル**人** | ブラジル**じん** | brasileiro |
 | 人間 | **にん**げん | humano |
 | 人生 | **じん**せい | vida |
 
-<br>
+<br><br>
 
 
 # 子
+
 <ul><li>criança</li><li>filho</li></ul>
 
 <ul><li>シ</li><li>ス</li><li>こ</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | **子**供 | **こ**ども | criança |
 | 女の**子** | おんなの**こ** | menina |
 | 男**子** | だん**し** | menino |
 | 様**子** | よう**す** | aparência |
 
-<br>
+<br><br>
 
 
 # 女
+
 - mulher
 
 <ul><li>ジョ</li><li>ニョ</li><li>ニョウ</li><li>おんな</li><li>め</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | **女** | **おんな** | mulher |
 | **女**子 | **じょ**し | menina |
@@ -97,7 +102,7 @@
 
 - ヨウ
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | ```曜```日 | ```よう```び | dia da semana |
 | 何```曜```日 | なん```よう```び | qual dia da semana? |

@@ -2,25 +2,27 @@
 
 
 # 円
+
 <ul><li>iene</li><li>círculo</li></ul>
 
 <ul><li>エン</li><li>まる・い</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 円 | えん | iene |
 | 円 | えん | círculo |
 | 円 | まる・い | redondo |
 
-<br>
+<br><br>
 
 
 # 年
+
 <ul><li>ano</li><li>idade</li></ul>
 
 <ul><li>ネン</li><li>とし</li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 年上 | としうえ | anos a mais |
 | 年下 | としした | anos a menos |

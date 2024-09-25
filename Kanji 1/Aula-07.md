@@ -2,11 +2,12 @@
 
 
 # 上
+
 <ul><li>acima</li><li>sobre</li><li>parte superior</li></ul>
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 上 | うえ | acima/sobre |
 | 上げる | あげる | aumentar |
@@ -14,15 +15,16 @@
 | 以上 | いじょう |  |
 | 上り | のぼり |  |
 
-<br>
+<br><br>
 
 
 # 下
+
 <ul><li>abaixo</li><li>sob</li><li>parte inferior</li></ul>
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 下 | した |  |
 | 下がる | さがる |  |
@@ -33,11 +35,12 @@
 
 
 # 中
+
 <ul><li>dentro</li><li>centro</li></ul>
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 中 | なか | dentro |
 | 中心 | ちゅうしん |  |
@@ -45,15 +48,16 @@
 | 中学生 | ちゅうがくせい |  |
 | 一日中 | いちにちじゅう |  |
 
-<br>
+<br><br>
 
 
 # 大
+
 <ul><li>grande</li></ul>
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 大きい | おおきい | grande |
 | 大学 | だいがく | universidade |
@@ -61,15 +65,16 @@
 | 大切 | たいせつ | importante |
 | 大人 | おとな | adulto |
 
-<br>
+<br><br>
 
 
 # 小
+
 <ul><li>pequeno</li></ul>
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 小さい | ちいさい | pequeno |
 | 小学生 | しょうがくせい | estudante do fundamental 1 |

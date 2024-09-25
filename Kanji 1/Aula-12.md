@@ -6,7 +6,7 @@
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 目 | め | olho |
 | 目的 | もくてき | objetivo |
@@ -17,24 +17,26 @@
 
 
 # 耳
+
 - ouvido
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 耳 | みみ | ouvido |
 | 耳鼻科 | じびか | otorrinolaringologista |
 
-<br>
+<br><br>
 
 
 # 手
+
 - mão
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 手 | て | mão |
 | 手紙 |てがみ | carta |
@@ -42,15 +44,16 @@
 | 運転手 | うんてんしゅ | motorista |
 | 山手線 | やまのてせん |  |
 
-<br>
+<br><br>
 
 
 # 足
+
 - pé
 
 <ul><li></li><li></li></ul>
 
-|  | furigana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 足 | あし | pé |
 | 足首 | あしくび | tornozelo |
