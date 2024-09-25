@@ -2,11 +2,12 @@
 
 
 # 写
+
 - copiar, reproduzir
 
 <ul><li>シャ</li><li>うつ・る</li><li>うつ・す</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 写真 | しゃしん | foto |
 | 写す | うつす |  |
@@ -14,30 +15,32 @@
 | 写る | うつる |  |
 | 複写 | ふくしゃ |  |
 
-<br>
+<br><br>
 
 
 # 真
+
 - verdadeiro, real
 
 <ul><li>シン</li><li>ま</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 真っ赤 | まっか | bem vermelho |
 | 真っ白 | まっしろ | bem branco |
 | 真夜中 | まよなか | meio da noite |
 | 真空 | しんくう |  |
 
-<br>
+<br><br>
 
 
 # 映
+
 <ul><li>refletir</li><li>projetar</li></ul>
 
 <ul><li>エイ</li><li>うつ・る</li><li>うつ・す</li><li>は・える</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 映る | うつる |  |
 | 映す | うつす | refletir / projetar imagem |
@@ -45,15 +48,16 @@
 | 映画 | えいが | filme (cinema) |
 | 上映 | じょうえい |  |
 
-<br>
+<br><br>
 
 
 # 画
+
 <ul><li>pintura, desenho</li><li>plano, projeto</li></ul>
 
 <ul><li>ガ</li><li>カク</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 映画館 | えいがかん | cinema (prédio) |
 | 画家 | がか | pintor |
@@ -61,29 +65,31 @@
 | 計画 | けいかく | plano / projeto |
 | 画面 | がめん | tela |
 
-<br>
+<br><br>
 
 
 # 組
+
 <ul><li>organizar</li><li>montar</li></ul>
 
 <ul><li>ソ</li><li>くみ</li><li>く・む</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 組む | くむ |  |
 | 組 | くみ |  |
 | 番組 | ばんぐみ | programa de televisão ou rádio |
 
-<br>
+<br><br>
 
 
 # 料
+
 <ul><li>taxa</li><li>material, ingrediente</li></ul>
 
 - リョウ
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 料理 | りょうり | culinária / refeição |
 | 料金 | りょうきん |  |

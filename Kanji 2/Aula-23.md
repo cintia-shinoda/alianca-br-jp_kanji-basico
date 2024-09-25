@@ -2,26 +2,28 @@
 
 
 # 政
+
 - administração política
 
 <ul><li>セイ</li><li>ショウ</li><li>まつりごと</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 行政 | ぎょうせい |  |
 | 政府 | せいふ |  |
 | 政党 | せいとう |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 治
+
 <ul><li>governar</li><li>curar</li></ul>
 
 <ul><li>ジ</li><li>チ</li><li>おさ・める</li><li>おさ・まる</li><li>なお・る</li><li>なお・す</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 治る | なおる |  |
 | 治す | なおす |  |
@@ -29,15 +31,16 @@
 | 明治 | めいじ |  |
 | 治安 | ちあん |  |
 
-<br>
+<br><br>
 
 
 # 理
+
 <ul><li>razão</li><li>princípio básico</li></ul>
 
 - リ
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 料理 | りょうり |  |
 | 物理学 | ぶつりがく |  |
@@ -45,15 +48,16 @@
 | 理系 | りけい |  |
 | 文系 | ぶんけい |  |
 
-<br>
+<br><br>
 
 
 # 科
+
 <ul><li>objeto de estudo (disciplina)</li><li>especialidade</li></ul>
 
 - カ
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 教科 | きょうか |  |
 | 教科書 | きょうかしょ |  |
@@ -67,15 +71,16 @@
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 化
+
 - transformar-se
 
 <ul><li>カ</li><li>ケ</li><li>ば・ける</li><li>ば・かす</li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 | 化学 | かがく |  |
 | 化粧室 | けしょうしつ |  |

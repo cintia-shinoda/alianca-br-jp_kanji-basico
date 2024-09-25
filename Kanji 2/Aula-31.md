@@ -2,41 +2,44 @@
 
 
 # 予
+
 - antecipadamente, previamente
 
 - 
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 定
+
 <ul><li>determinar, decidir</li><li>fixo, definido, regular (constante)</li></ul>
 
 <ul><li></li><li></li><li></li><li></li><li></li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 席
+
 - assento
 
 - 
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
@@ -44,30 +47,32 @@
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 欠
+
 - estar incompleto, faltar
 
 <ul><li></li><li></li><li></li></ul>
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
-<br>
+<br><br>
 
 
 # 活
+
 - vivacidade, energia
 
 - 
 
-| kanji | hiragana | tradução |
+| kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
