@@ -1,7 +1,7 @@
-# Aula 24 - 29/05/2023
+#### Aula 24 - 29/05/2023
 
 
-## 作
+# 作
 - fazer, preparar
 
 <ul><li></li><li></li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 海
+# 海
 - mar
 
 <ul><li></li><li></li></ul>
@@ -31,7 +31,7 @@
 <br>
 
 
-## 酒
+# 酒
 <ul><li>saquê</li><li>bebida alcoólica</li></ul>
 
 <ul><li>シュ</li><li>さけ</li><li>さか</li></ul>
@@ -46,7 +46,7 @@
 <br>
 
 
-## 油
+# 油
 - óleo
 
 <ul><li>ユ</li><li>あぶら</li></ul>
@@ -61,7 +61,7 @@
 <br>
 
 
-## 泳
+# 泳
 - nadar
 
 <ul><li>エイ</li><li>およ・ぐ</li></ul>

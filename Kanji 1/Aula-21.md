@@ -1,7 +1,7 @@
-# Aula 21 - 17/05/2023
+#### Aula 21 - 17/05/2023
 
 
-## 読
+# 読
 - ler
 
 <ul><li></li><li></li></ul>
@@ -15,7 +15,7 @@
 <br>
 
 
-## 書
+# 書
 - escrever
 
 <ul><li></li><li></li></ul>
@@ -29,7 +29,7 @@
 <br>
 
 
-## 食
+# 食
 - comer
 
 <ul><li></li><li></li></ul>
@@ -46,7 +46,7 @@
 <br>
 
 
-## 飲
+# 飲
 - beber
 
 <ul><li></li><li></li></ul>
@@ -60,7 +60,7 @@
 <br>
 
 
-## 買
+# 買
 - comprar
 
 <ul><li>バイ</li><li>か・う</li></ul>

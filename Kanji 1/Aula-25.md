@@ -1,7 +1,7 @@
-# Aula 25 - 31/05/2023
+#### Aula 25 - 31/05/2023
 
 
-## 教
+# 教
 - ensinar
 
 <ul><li>キョウ</li><li>おし・える</li><li>おそ・わる</li></ul>
@@ -16,8 +16,7 @@
 <br>
 
 
-
-## 計
+# 計
 <ul><li>calcular, contar</li><li>planejar</li><li>instrumento de medição</li></ul>
 
 <ul><li>ケイ</li><li>はか・る</li><li>はか・らう</li></ul>
@@ -32,8 +31,7 @@
 <br>
 
 
-
-## 語
+# 語
 <ul><li>idioma</li><li>palavra</li><li>narrar, contar</li></ul>
 
 <ul><li>ゴ</li><li>かた・る</li><li>かた・らう</li></ul>
@@ -48,8 +46,7 @@
 <br>
 
 
-
-## 校
+# 校
 <ul><li>escola</li><li>revisão (prova), verificação</li></ul>
 
 - コウ
@@ -65,8 +62,7 @@
 <br>
 
 
-
-## 待
+# 待
 <ul><li>esperar</li><li>receber pessoas, entreter</li></ul>
 
 <ul><li>タイ</li><li>ま・つ</li></ul>
@@ -81,8 +77,7 @@
 <br>
 
 
-
-## 飯
+# 飯
 <ul><li>arroz cozido</li><li>refeição, comida</li></ul>
 
 <ul><li>ハン</li><li>めし</li></ul>

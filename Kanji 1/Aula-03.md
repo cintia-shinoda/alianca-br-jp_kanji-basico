@@ -1,7 +1,7 @@
-# Aula 3
+#### Aula 3
 
 
-## 田
+# 田
 - arrozal
 
 <ul><li>デン</li><li>た</li></ul>
@@ -16,7 +16,7 @@
 <br>
 
 
-## 山
+# 山
 - montanha
 
 <ul><li>サン</li><li>やま</li></ul>
@@ -35,7 +35,7 @@
 <br>
 
 
-## 川
+# 川
 - rio
 
 <ul><li>かわ</li><li>セン</li></ul>
@@ -52,7 +52,7 @@
 <br>
 
 
-## 口
+# 口
 <ul><li>boca</li><li>abertura, orifício</li></ul>
 
 <ul><li>コウ</li><li>ク</li><li>くち</li></ul>
@@ -68,7 +68,7 @@
 <br>
 
 
-## 車
+# 車
 <ul><li>veículo</li><li>roda</li></ul>
 
 <ul><li>シャ</li><li>くるま</li></ul>
@@ -83,7 +83,7 @@
 <br>
 
 
-## 門
+# 門
 - portão
 
 <ul><li>モン</li><li>かど</li></ul>

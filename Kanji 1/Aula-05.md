@@ -1,7 +1,7 @@
-# Aula 5
+#### Aula 5
 
 
-## 四
+# 四
 - quatro
 
 <ul><li>シ</li><li>よ</li><li>よ・つ</li><li>よっ・つ</li><li>よん</li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 五
+# 五
 - cinco
 
 <ul><li>ゴ</li><li>いつ</li><li>いつ・つ</li></ul>
@@ -31,7 +31,7 @@
 <br>
 
 
-## 六
+# 六
 - seis
 
 <ul><li>ロク</li><li>む</li><li>む・つ</li><li>むっつ</li><li>むい</li></ul>
@@ -46,7 +46,7 @@
 <br>
 
 
-## 七
+# 七
 - sete
 
 <ul><li>シチ</li><li>なな</li><li>なな・つ</li><li>なの</li></ul>
@@ -60,7 +60,7 @@
 <br>
 
 
-## 八
+# 八
 - oito
 
 <ul><li>ハチ</li><li>や</li><li>や・つ</li><li>やっ・つ</li><li>よう</li></ul>
@@ -75,7 +75,7 @@
 <br>
 
 
-## 九
+# 九
 - nove
 <ul><li>キュウ</li><li>ク</li><li>ここの</li><li>ここの・つ</li></ul>
 
@@ -90,7 +90,7 @@
 <br>
 
 
-## 十
+# 十
 - dez
 <ul><li>ジュウ</li><li>ジッ</li><li>とお</li><li>と</li></ul>
 
@@ -103,7 +103,7 @@
 <br>
 
 
-## 百
+# 百
 - cem
 - ヒャク
 
@@ -115,7 +115,7 @@
 <br>
 
 
-## 千
+# 千
 - mil
 <ul><li>セン</li><li>ち</li></ul>
 
@@ -127,7 +127,7 @@
 <br>
 
 
-## 万
+# 万
 - dez mil
 
 |  | furigana | tradução |

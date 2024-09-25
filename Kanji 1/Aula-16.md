@@ -1,7 +1,7 @@
-# Aula 16 - 24/04/2023
+#### Aula 16 - 24/04/2023
 
 
-## 馬
+# 馬
 - cavalo
 
 <ul><li></li><li></li></ul>
@@ -15,7 +15,7 @@
 <br>
 
 
-## 鳥
+# 鳥
 - pássaro
 
 <ul><li></li><li></li></ul>
@@ -29,7 +29,7 @@
 <br>
 
 
-## 魚
+# 魚
 - peixe
 
 <ul><li></li><li></li></ul>
@@ -45,7 +45,7 @@
 <br>
 
 
-## 高
+# 高
 <ul><li>alto</li><li>caro</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -59,7 +59,7 @@
 <br>
 
 
-## 安
+# 安
 <ul><li>barato</li><li></li></ul>
 
 <ul><li></li><li></li></ul>

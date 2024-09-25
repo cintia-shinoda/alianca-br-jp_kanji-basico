@@ -1,21 +1,21 @@
-# Aula 02
+#### Aula 02
 
 
-## 木
+# 木
 - árvore
 
 <ul><li>ボク</li><li>モク</li><li>き</li><li>こ</li></ul>
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| **木** | **き** | árvore |
-| **木**曜日 | **もく**ようび | quinta-feira |
-| **木**村さん / **木**下っさん | **き**むらさん / **き**のしたさん | Kimura-san / Kinoshita-san |
+| 木 | き | árvore |
+| ```木```曜日 | ```もく```ようび | quinta-feira |
+| ```木```村さん / ```木```下っさん | ```き```むらさん / ```き```のしたさん | Kimura-san / Kinoshita-san |
 
 <br>
 
 
-## 金
+# 金
 
 <ul><li>ouro</li><li>dinheiro</li></ul>
 
@@ -23,16 +23,16 @@
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| お**金** | お**かね** | dinheiro |
-| **金** | **きん** | ouro |
-| 現**金** | げん**きん** | dinheiro em espécie |
-| **金**曜日 | **きん**ようび | sexta-feira |
-| **金**田さん | **かね**ださん | Kaneda-san |
+| お```金``` | お```かね``` | dinheiro |
+| 金 | きん | ouro |
+| 現```金``` | げん```きん``` | dinheiro em espécie |
+| ```金```曜日 | ```きん```ようび | sexta-feira |
+| ```金```田さん | ```かね```ださん | Kaneda-san |
 
 <br>
 
 
-## 土
+# 土
 <ul><li>terra</li><li>solo</li></ul>
 
 <ul><li>ド</li><li>ト</li><li>つち</li></ul>
@@ -47,7 +47,7 @@
 <br>
 
 
-## 人
+# 人
 - pessoa
 
 <ul><li>ジン</li><li>ニン</li><li>ひと</li></ul>
@@ -62,7 +62,7 @@
 <br>
 
 
-## 子
+# 子
 <ul><li>criança</li><li>filho</li></ul>
 
 <ul><li>シ</li><li>ス</li><li>こ</li></ul>
@@ -77,7 +77,7 @@
 <br>
 
 
-## 女
+# 女
 - mulher
 
 <ul><li>ジョ</li><li>ニョ</li><li>ニョウ</li><li>おんな</li><li>め</li></ul>
@@ -92,12 +92,12 @@
 <br>
 
 
-## 曜
+# 曜
 - dia da semana
 
 - ヨウ
 
 |  | furigana | tradução |
 |:---:|:---:|:---:|
-| **曜**日 | **よう**び | dia da semana |
-| 何**曜**日 | なん**よう**び | qual dia da semana? |
+| ```曜```日 | ```よう```び | dia da semana |
+| 何```曜```日 | なん```よう```び | qual dia da semana? |

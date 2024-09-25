@@ -1,7 +1,7 @@
-# Aula 4
+#### Aula 4
 
 
-## 学
+# 学
 <ul><li>estudo, aprender</li><li>instituição educacional</li></ul>
 
 <ul><li>ガク</li><li>まな・ぶ</li></ul>
@@ -16,7 +16,7 @@
 <br>
 
 
-## 生
+# 生
 <ul><li>vida</li><li>nascer</li><li>viver</li></ul>
 
 <ul><li>なま</li><li>いきる</li><li>セイ</li><li>ジョウ</li><li>は</li><li>う</li></ul>
@@ -33,7 +33,7 @@
 <br>
 
 
-## 先
+# 先
 <ul><li>antes</li><li>adiante</li><li>extremidade</li></ul>
 
 <ul><li>セン</li><li>さき</li></ul>
@@ -48,7 +48,7 @@
 <br>
 
 
-## 私
+# 私
 <ul><li>eu</li><li>privado</li></ul>
 
 <ul><li>わたし</li><li>わたくし</li><li>し</li></ul>
@@ -60,7 +60,7 @@
 <br>
 
 
-## 一
+# 一
 - um
 
 <ul><li>イチ</li><li></li><li>ひと</li><li>ひと・つ</li></ul>
@@ -77,7 +77,7 @@
 <br>
 
 
-## 二
+# 二
 - dois
 
 <ul><li>二</li><li>ふた</li><li>ふた・つ</li></ul>
@@ -92,7 +92,7 @@
 <br>
 
 
-## 三
+# 三
 - três
 
 <ul><li>サン</li><li>み</li><li>み・つ</li><li>みっつ</li></ul>

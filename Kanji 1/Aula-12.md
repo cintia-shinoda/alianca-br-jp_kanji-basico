@@ -1,6 +1,7 @@
-# Aula 12
+#### Aula 12
 
-## 目
+
+# 目
 - olho
 
 <ul><li></li><li></li></ul>
@@ -15,7 +16,7 @@
 <br>
 
 
-## 耳
+# 耳
 - ouvido
 
 <ul><li></li><li></li></ul>
@@ -28,8 +29,7 @@
 <br>
 
 
-
-## 手
+# 手
 - mão
 
 <ul><li></li><li></li></ul>
@@ -45,7 +45,7 @@
 <br>
 
 
-## 足
+# 足
 - pé
 
 <ul><li></li><li></li></ul>

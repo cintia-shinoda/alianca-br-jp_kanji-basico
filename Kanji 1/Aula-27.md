@@ -1,7 +1,7 @@
-# Aula 27 - 07/06/2023
+#### Aula 27 - 07/06/2023
 
 
-## ```会```
+# ```会```
 <ul><li>encontrar-se com</li><li>associação</li></ul>
 
 <ul><li>カイ</li><li>あ・う</li></ul>
@@ -16,7 +16,7 @@
 <br>
 
 
-## ```今```
+# ```今```
 <ul><li>agora, este momento</li><li>este(a)</li></ul>
 
 <ul><li>キン</li><li>コン</li><li>いま</li></ul>
@@ -33,7 +33,7 @@
 <br>
 
 
-## ```家```
+# ```家```
 <ul><li>casa</li><li>família</li></ul>
 
 <ul><li>カ</li><li>ケ</li><li>や</li><li>いえ</li></ul>
@@ -49,7 +49,7 @@
 <br>
 
 
-## ```室```
+# ```室```
 - cômodo, aposento
 
 <ul><li>シツ</li><li>むろ</li></ul>
@@ -66,7 +66,7 @@
 <br>
 
 
-## ```客``
+# ```客``
 <ul><li>visitante</li><li>cliente</li></ul>
 
 <ul><li>キャク</li><li>カク</li></ul>

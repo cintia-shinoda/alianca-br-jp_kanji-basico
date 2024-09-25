@@ -1,7 +1,7 @@
-# Aula 23 - 24/05/2023
+#### Aula 23 - 24/05/2023
 
 
-## 午
+# 午
 - meio-dia
 
 -
@@ -16,8 +16,7 @@
 <br>
 
 
-
-## 前
+# 前
 <ul><li>em frente</li><li>anterior</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -34,8 +33,7 @@
 <br>
 
 
-
-## 後
+# 後
 <ul><li>atrás</li><li>posterior</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -50,8 +48,7 @@
 <br>
 
 
-
-## 毎
+# 毎
 <ul><li>todas (as vezes)</li><li>cada</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -67,8 +64,7 @@
 <br>
 
 
-
-## 週
+# 週
 - semana
 
 <ul><li></li><li></li></ul>
@@ -83,8 +79,7 @@
 <br>
 
 
-
-## 時
+# 時
 <ul><li>horas</li><li>ocasião</li></ul>
 
 <ul><li></li><li></li></ul>

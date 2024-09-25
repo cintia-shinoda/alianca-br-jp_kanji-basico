@@ -1,7 +1,7 @@
-# Aula 13 - 10/04/2023
+#### Aula 13 - 10/04/2023
 
 
-## 雨
+# 雨
 - chuva
 
 <ul><li></li><li></li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 竹
+# 竹
 - bambu
 
 <ul><li></li><li></li></ul>
@@ -31,7 +31,7 @@
 <br>
 
 
-## 米
+# 米
 - arroz
 
 <ul><li></li><li></li></ul>
@@ -48,7 +48,7 @@
 <br>
 
 
-## 貝
+# 貝
 - concha
 
 <ul><li></li><li></li></ul>
@@ -60,7 +60,7 @@
 <br>
 
 
-## 糸
+# 糸
 - fio
 
 <ul><li></li><li></li></ul>

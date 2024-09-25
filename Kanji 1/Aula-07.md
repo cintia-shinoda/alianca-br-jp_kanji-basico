@@ -1,7 +1,7 @@
-# Aula 7
+#### Aula 7
 
 
-## 上
+# 上
 <ul><li>acima</li><li>sobre</li><li>parte superior</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 下
+# 下
 <ul><li>abaixo</li><li>sob</li><li>parte inferior</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -32,7 +32,7 @@
 <br>
 
 
-## 中
+# 中
 <ul><li>dentro</li><li>centro</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -48,7 +48,7 @@
 <br>
 
 
-## 大
+# 大
 <ul><li>grande</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -64,7 +64,7 @@
 <br>
 
 
-## 小
+# 小
 <ul><li>pequeno</li></ul>
 
 <ul><li></li><li></li></ul>

@@ -1,7 +1,7 @@
-# Aula 28 - 12/06/2023
+#### Aula 28 - 12/06/2023
 
 
-## ```宅```
+# ```宅```
 - moradia
 
 - タク
@@ -17,7 +17,7 @@
 <br>
 
 
-## ```売```
+# ```売```
 - vender
 
 <ul><li>バイ</li><li>う・る</li><li>う・れる</li></ul>
@@ -33,7 +33,7 @@
 <br>
 
 
-## ```英```
+# ```英```
 <ul><li>notável, destacado</li><li>Inglaterra</li></ul>
 
 - エイ
@@ -47,7 +47,7 @@
 <br>
 
 
-## ```薬```
+# ```薬```
 <ul><li>remédio, droga</li><li>produto químico</li></ul>
 
 <ul><li>ヤク</li><li>くすり</li></ul>
@@ -64,7 +64,7 @@
 <br>
 
 
-## ```電```
+# ```電```
 <ul><li>raio</li><li>eletricidade</li></ul>
 
 - デン
@@ -79,7 +79,7 @@
 <br>
 
 
-## ```雪```
+# ```雪```
 - neve
 
 <ul><li>セツ</li><li>ゆき</li></ul>
@@ -94,7 +94,7 @@
 <br>
 
 
-## ```曇```
+# ```曇```
 - nuvem
 
 <ul><li>ウン</li><li>くも</li></ul>

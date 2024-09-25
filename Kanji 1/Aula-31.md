@@ -1,7 +1,7 @@
-# Aula 31 - 21/06/2023
+#### Aula 31 - 21/06/2023
 
 
-## ```病```
+# ```病```
 - doença
 
 <ul><li>ビョウ</li><li>や・む</li><li>やまい</li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## ```痛```
+# ```痛```
 <ul><li>dolorido</li><li>doer</li></ul>
 
 <ul><li>ツウ</li><li>いた・い</li><li>いた・む</li><li>いた・める</li></ul>
@@ -35,7 +35,7 @@
 <br>
 
 
-## ```疲```
+# ```疲```
 - ficar cansado, cansaço
 
 <ul><li>ヒ</li><li>つか・れる</li><li>つか・らす</li></ul>
@@ -49,7 +49,7 @@
 <br>
 
 
-## ```国```
+# ```国```
 - país
 
 <ul><li>コク</li><li>くに</li></ul>
@@ -68,7 +68,7 @@
 <br>
 
 
-## ```回```
+# ```回```
 <ul><li>girar, rodar</li><li>número de vezes</li></ul>
 
 <ul><li>カイ</li><li>まわ・る</li><li>まわ・す</li></ul>
@@ -82,8 +82,7 @@
 <br>
 
 
-
-## ```困```
+# ```困```
 - ficar em dificuldades
 
 <ul><li>コン</li><li>こま・る</li></ul>
@@ -97,7 +96,7 @@
 <br>
 
 
-## ```開```
+# ```開```
 - abrir
 
 <ul><li>カイ</li><li>ひら・く</li><li>ひら・ける</li><li>あ・く</li><li>あ・ける</li></ul>
@@ -112,7 +111,7 @@
 <br>
 
 
-## ```閉```
+# ```閉```
 - fechar
 
 <ul><li>ヘイ</li><li>と・じる</li><li>と・ざす</li><li>し・まる</li><li>し・める</li></ul>

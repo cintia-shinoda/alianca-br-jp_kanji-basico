@@ -1,7 +1,7 @@
-# Aula 17 - 26/04/2023
+#### Aula 17 - 26/04/2023
 
 
-## 新
+# 新
 - novo
 
 <ul><li></li><li></li></ul>
@@ -16,7 +16,7 @@
 <br>
 
 
-## 古
+# 古
 - velho
 
 <ul><li></li><li></li></ul>
@@ -30,7 +30,7 @@
 | 中古車 | ちゅう**こ**しゃ | carro usado |
 
 
-## 多
+# 多
 - numeroso
 
 <ul><li></li><li></li></ul>
@@ -41,7 +41,7 @@
 | 多数 | たすう |  |
 
 
-## 少
+# 少
 - reduzido
 
 <ul><li></li><li></li></ul>
@@ -54,8 +54,7 @@
 | 多少 | たしょう |  |
 
 
-
-## 長
+# 長
 - longo
 - chefe, líder
 
@@ -70,7 +69,7 @@
 | 長野県 | ながのけん | Nagano-ken |
 
 
-## 短
+# 短
 - curto
 
 <ul><li></li><li></li></ul>
@@ -83,7 +82,7 @@
 | 短大 | たんだい | faculdade de curta duração |
 
 
-## 低
+# 低
 - baixo
 
 <ul><li></li><li></li></ul>
@@ -94,7 +93,7 @@
 | 低下 | ていか | decréscimo |
 
 
-## 暗
+# 暗
 - escuro
 
 <ul><li></li><li></li></ul>

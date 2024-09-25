@@ -1,7 +1,7 @@
-# Aula 20 - 15/05/2023
+#### Aula 20 - 15/05/2023
 
 
-## 行
+# 行
 <ul><li>ir</li><li>realizar</li></ul>
 
 <ul><li>キョウ</li><li>コウ</li><li>い・く</li><li>おこな・う</li></ul>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 来
+# 来
 - vir
 
 <ul><li></li><li></li></ul>
@@ -29,7 +29,7 @@
 <br>
 
 
-## 入
+# 入
 <ul><li>entrar</li><li>colocar dentro</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -41,7 +41,7 @@
 <br>
 
 
-## 出
+# 出
 <ul><li>sair</li><li>aparecer, comparecer</li><li>tirar de dentro</li><li>enviar</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -53,7 +53,7 @@
 <br>
 
 
-## 話
+# 話
 - conversar
 
 <ul><li></li><li></li></ul>
@@ -65,7 +65,7 @@
 <br>
 
 
-## 見
+# 見
 <ul><li>ver, assistir</li><li>mostrar</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -77,7 +77,7 @@
 <br>
 
 
-## 聞
+# 聞
 - ouvir, escutar
 
 <ul><li></li><li></li></ul>

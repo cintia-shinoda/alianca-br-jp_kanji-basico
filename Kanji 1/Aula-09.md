@@ -1,7 +1,7 @@
-# Aula 9
+#### Aula 9
 
 
-## 明
+# 明
 <ul><li>claro, luminoso</li><li>alegre, bem disposto</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -16,7 +16,7 @@
 <br>
 
 
-## 休
+# 休
 <ul><li>descansar</li><li>não comparecer</li><li>folga</li></ul>
 
 <ul><li></li><li></li></ul>
@@ -31,7 +31,7 @@
 <br>
 
 
-## 体
+# 体
 - corpo
 
 <ul><li></li><li></li></ul>
@@ -46,7 +46,7 @@
 <br>
 
 
-## 好
+# 好
 - gostar, apreciar
 
 <ul><li></li><li></li></ul>
@@ -61,7 +61,7 @@
 <br>
 
 
-## 男
+# 男
 - homem
 
 <ul><li></li><li></li></ul>

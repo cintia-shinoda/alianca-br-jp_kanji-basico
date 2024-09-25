@@ -1,7 +1,7 @@
-# Aula 30 - 19/06/2023
+#### Aula 30 - 19/06/2023
 
 
-## ```度```
+# ```度```
 <ul><li>vez, ocasião</li><li>grau</li><li>preparativos</ul>
 
 <ul><li>ド</li><li>タク</li><li>たび</li></ul>
@@ -18,7 +18,7 @@
 <br>
 
 
-## ```広```
+# ```広```
 <ul><li>amplo</li><li>ampliar(-se), propagar(-se)</li></ul>
 
 <ul><li>コウ</li><li>ひろ・い</li><li>ひろ・まる</li><li>ひろ・める</li><li>ひろ・がる</li><li>ひろ・げる</li></ul>
@@ -34,7 +34,7 @@
 <br>
 
 
-## ```店```
+# ```店```
 - loja, estabelecimento
 
 <ul><li>テン</li><li>みせ</li></ul>
@@ -50,7 +50,7 @@
 <br>
 
 
-## ```屋```
+# ```屋```
 <ul><li>edificação</li><li>estabelecimento de comércio</li></ul>
 
 <ul><li>オク</li><li>や</li></ul>

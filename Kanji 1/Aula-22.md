@@ -1,7 +1,7 @@
-# Aula 22 - 22/05/2023
+#### Aula 22 - 22/05/2023
 
 
-## 朝
+# 朝
 - manhã
 
 <ul><li>チョウ</li><li>あさ</li></ul>
@@ -14,7 +14,7 @@
 <br>
 
 
-## 昼
+# 昼
 <ul><li>período diurno</li><li>meio-dia</li></ul>
 
 <ul><li>チュウ</li><li>ひる</li></ul>
@@ -28,7 +28,7 @@
 <br>
 
 
-## 夜
+# 夜
 - noite
 
 <ul><li>ヤ</li><li>よ</li><li>よる</li></ul>
@@ -43,7 +43,7 @@
 <br>
 
 
-## 晩
+# 晩
 - noite (antes de deitar)
 
 - バン
@@ -56,7 +56,7 @@
 <br>
 
 
-## 夕
+# 夕
 - início da noite
 
 <ul><li>セキ</li><li>ゆう</li></ul>
@@ -72,7 +72,7 @@
 <br>
 
 
-## 方
+# 方
 <ul><li>senhor,senhora</li><li>modo</li><li>direção</li></ul>
 
 <ul><li>ホウ</li><li>かた</li></ul>
