@@ -55,11 +55,11 @@
 
 <ul><li>força</li><li>energia</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>リョク</li><li>リキ</li><li>ちから</li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
-| 力 | ちから | força 💪|
+| 力 | ちから | força |
 |  |  |  |
 | 能力 | のうりょく | proficiência |
 | 水力 | すいりょく | força da água |
@@ -69,9 +69,9 @@
 
 # 何
 
-<ul><li>O quê?</li><li>Quanto?</li><li></li></ul>
+<ul><li>O quê?</li><li>Quanto?</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>カ</li><li>なに</li><li>なん</li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|

@@ -5,7 +5,7 @@
 
 <ul><li>claro, luminoso</li><li>alegre, bem disposto</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>メイ</li><li>ミョウ</li><li>あ・かり</li><li>あか・るい</li><li>あか・らむ</li><li>あき・らか</li><li>あ・ける</li><li>あ・く</li><li>あ・くる</li><li>あ・かす</li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
@@ -21,7 +21,7 @@
 
 <ul><li>descansar</li><li>não comparecer</li><li>folga</li></ul>
 
-<ul><li></li><li></li></ul>
+<ul><li>キュウ</li><li>やす・む</li><li>やす・まる</li><li>やす・める</li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
@@ -29,6 +29,8 @@
 | 休む | やすむ |  |
 | 休み | やすみ |  |
 | 休校 | きゅうこう | cancelamento |
+|  |  |  |
+|  |  |  |
 
 <br><br>
 
@@ -37,7 +39,7 @@
 
 - corpo
 
-<ul><li></li><li></li></ul>
+<ul><li>タイ</li><li>テイ</li><li>からだ</li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
@@ -45,6 +47,7 @@
 | 体力 | たいりょく | força física |
 | 体育 | たいいく | Educação Física |
 | 体重 | たいじゅう | massa corporal |
+|  |  |  |
 
 <br><br>
 
@@ -53,7 +56,7 @@
 
 - gostar, apreciar
 
-<ul><li></li><li></li></ul>
+<ul><li>コウ</li><li>この・む</li><li>す・く</li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|

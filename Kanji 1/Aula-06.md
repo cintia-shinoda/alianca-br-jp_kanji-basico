@@ -9,9 +9,9 @@
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
-| 円 | えん | iene |
-| 円 | えん | círculo |
-| 円 | まる・い | redondo |
+| ```円``` | えん | iene |
+| ```円``` | えん | círculo |
+| ```円``` | まる・い | redondo |
 
 <br><br>
 
@@ -24,9 +24,9 @@
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
-| 年上 | としうえ | anos a mais |
-| 年下 | としした | anos a menos |
-| 今年 | ことし | este ano |
-| 来年 | らいねん | próximo ano |
-| 去年 | きょねん | ano passado |
-| 生年月日 | せいねんがっぴ | data de nascimento |
+| ```年```上 | としうえ | anos a mais |
+| ```年```下 | としした | anos a menos |
+| 今```年``` | ことし | este ano |
+| 来```年``` | らいねん | próximo ano |
+| 去```年``` | きょねん | ano passado |
+| 生```年```月日 | せいねんがっぴ | data de nascimento |
