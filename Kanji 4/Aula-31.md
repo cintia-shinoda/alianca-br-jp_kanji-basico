@@ -1,28 +1,11 @@
 #### Aula 31 - 04/12/2024
 
 
-# 
+# 初
 
-<ul><li></li><li></li></ul>
+- a primeira vez, o início
 
-<ul><li></li><li></li><li></li></ul>
-
-| kanji | leitura | tradução |
-|:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-<br><br>
-
-
-# 
-
-<ul><li></li><li></li></ul>
-
-<ul><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li><li></li><li></li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
@@ -35,11 +18,11 @@
 <br><br>
 
 
-# 
+# 共
+
+- em conjunto
 
 <ul><li></li><li></li></ul>
-
-<ul><li></li><li></li><li></li></ul>
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
@@ -52,16 +35,14 @@
 <br><br>
 
 
-# 
+# 比
+
+- comparar
 
 <ul><li></li><li></li></ul>
 
-<ul><li></li><li></li><li></li></ul>
-
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -69,16 +50,28 @@
 <br><br>
 
 
-# 
+# 較
 
-<ul><li></li><li></li></ul>
+- comparar
 
-<ul><li></li><li></li><li></li></ul>
+- 
 
 | kanji | leitura | tradução |
 |:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
+
+<br><br>
+
+
+# 賛
+
+<ul><li>aprovação</li><li>aprovar</li></ul>
+
+- 
+
+| kanji | leitura | tradução |
+|:---:|:---:|:---:|
 |  |  |  |
 |  |  |  |
 |  |  |  |
