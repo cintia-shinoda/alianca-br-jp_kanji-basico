@@ -7,8 +7,8 @@
 | &check; | [Kanji 1](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%201) | 1/2023 | 145 | 70.0 / 100.0 |
 | &check; | [Kanji 2](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%202) | 2/2023 | 142 | 71.8 / 100.0 |
 | &check; | [Kanji 3](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%203) | 1/2024 | 112 | 60.8 / 100.0 |
-| in progress | [Kanji 4](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%204) | 2/2024 | 101 |  |
-| **$\sum$** |  |  | 399 / 500 |  |
+|  | [Kanji 4](https://github.com/cintia-shinoda/alianca-kanji_basico/tree/master/Kanji%204) | 2/2024 | 101 |  |
+| **$\sum$** |  |  | 500 / 500 |  |
 
 <br>
 
@@ -214,7 +214,7 @@
 | &check; | 30 | 02/12/2024 | 反・対・表・現・直 | 5 |
 | &check; | 31 | 04/12/2024 | 初・共・比・較・賛 | 5 |
 | &check; | 32 | 09/12/2024 | Revisão | - |
-|  | 33 | 11/12/2024 | Revisão |  |
+| &check; | 33 | 11/12/2024 | Revisão | - |
 |  | 34 | 16/12/2024 | Prova 2 |  |
 |  | 35 | 18/12/2024 | Prova Sub |  |
 |  |  |  | **Média** |  |
